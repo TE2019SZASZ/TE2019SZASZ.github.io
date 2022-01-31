@@ -11,8 +11,6 @@
 	/**
 	 * Return a value for our partial refresh.
 	 *
-	 * @since Twenty Twenty 1.0
-	 *
 	 * @param {Object} partial  Current partial.
 	 *
 	 * @return {jQuery.Promise} Resolved promise.
@@ -32,8 +30,6 @@
 
 		/**
 		 * Override the refresh method.
-		 *
-		 * @since Twenty Twenty 1.0
 		 *
 		 * @return {jQuery.Promise} Resolved promise.
 		 */
@@ -59,15 +55,12 @@
 		/**
 		 * Input attributes.
 		 *
-		 * @since Twenty Twenty 1.0
 		 * @type {Object}
 		 */
 		attrs: {},
 
 		/**
 		 * Override the refresh method.
-		 *
-		 * @since Twenty Twenty 1.0
 		 *
 		 * @return {jQuery.Promise} Resolved promise.
 		 */
@@ -186,7 +179,7 @@
 		stylesheet.html( styles );
 	}
 	// Generate styles on load. Handles page-changes on the preview pane.
-	$( function() {
+	$( document ).ready( function() {
 		twentyTwentyGenerateColorA11yPreviewStyles( 'content' );
 		twentyTwentyGenerateColorA11yPreviewStyles( 'header-footer' );
 	} );

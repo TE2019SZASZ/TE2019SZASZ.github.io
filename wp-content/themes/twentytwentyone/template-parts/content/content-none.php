@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_One
- * @since Twenty Twenty-One 1.0
+ * @since 1.0.0
  */
 
 ?>
@@ -18,7 +18,7 @@
 			<h1 class="page-title">
 				<?php
 				printf(
-					/* translators: %s: Search term. */
+					/* translators: %s: search term. */
 					esc_html__( 'Results for "%s"', 'twentytwentyone' ),
 					'<span class="page-description search-term">' . esc_html( get_search_query() ) . '</span>'
 				);
@@ -39,8 +39,8 @@
 			<?php
 			printf(
 				'<p>' . wp_kses(
-					/* translators: %s: Link to WP admin new post page. */
-					__( 'Ready to publish your first post? <a href="%s">Get started here</a>.', 'twentytwentyone' ),
+					/* translators: 1: link to WP admin new post page. */
+					__( 'Ready to publish your first post? <a href="%1$s">Get started here</a>.', 'twentytwentyone' ),
 					array(
 						'a' => array(
 							'href' => array(),

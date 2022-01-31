@@ -44,9 +44,7 @@ function darkModeInitialLoad() {
 }
 
 function darkModeRepositionTogglerOnScroll() {
-
-	var toggler = document.getElementById( 'dark-mode-toggler' ),
-		prevScroll = window.scrollY || document.documentElement.scrollTop,
+	var prevScroll = window.scrollY || document.documentElement.scrollTop,
 		currentScroll,
 
 		checkScroll = function() {
@@ -55,16 +53,13 @@ function darkModeRepositionTogglerOnScroll() {
 				currentScroll + ( window.innerHeight * 1.5 ) > document.body.clientHeight ||
 				currentScroll < prevScroll
 			) {
-				toggler.classList.remove( 'hide' );
+				document.getElementById( 'dark-mode-toggler' ).classList.remove( 'hide' );
 			} else if ( currentScroll > prevScroll && 250 < currentScroll ) {
-				toggler.classList.add( 'hide' );
+				document.getElementById( 'dark-mode-toggler' ).classList.add( 'hide' );
 			}
 			prevScroll = currentScroll;
 		};
-
-	if ( toggler ) {
-		window.addEventListener( 'scroll', checkScroll );
-	}
+	window.addEventListener( 'scroll', checkScroll );
 }
 
 darkModeInitialLoad();

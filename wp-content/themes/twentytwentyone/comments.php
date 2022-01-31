@@ -9,7 +9,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_One
- * @since Twenty Twenty-One 1.0
+ * @since 1.0.0
  */
 
 /*
@@ -28,6 +28,7 @@ $twenty_twenty_one_comment_count = get_comments_number();
 
 	<?php
 	if ( have_comments() ) :
+		;
 		?>
 		<h2 class="comments-title">
 			<?php if ( '1' === $twenty_twenty_one_comment_count ) : ?>
@@ -35,7 +36,7 @@ $twenty_twenty_one_comment_count = get_comments_number();
 			<?php else : ?>
 				<?php
 				printf(
-					/* translators: %s: Comment count number. */
+					/* translators: %s: comment count number. */
 					esc_html( _nx( '%s comment', '%s comments', $twenty_twenty_one_comment_count, 'Comments title', 'twentytwentyone' ) ),
 					esc_html( number_format_i18n( $twenty_twenty_one_comment_count ) )
 				);
@@ -58,7 +59,8 @@ $twenty_twenty_one_comment_count = get_comments_number();
 		<?php
 		the_comments_pagination(
 			array(
-				'before_page_number' => esc_html__( 'Page', 'twentytwentyone' ) . ' ',
+				/* translators: There is a space after page. */
+				'before_page_number' => esc_html__( 'Page ', 'twentytwentyone' ),
 				'mid_size'           => 0,
 				'prev_text'          => sprintf(
 					'%s <span class="nav-prev-text">%s</span>',
@@ -82,6 +84,7 @@ $twenty_twenty_one_comment_count = get_comments_number();
 	<?php
 	comment_form(
 		array(
+			'logged_in_as'       => null,
 			'title_reply'        => esc_html__( 'Leave a comment', 'twentytwentyone' ),
 			'title_reply_before' => '<h2 id="reply-title" class="comment-reply-title">',
 			'title_reply_after'  => '</h2>',

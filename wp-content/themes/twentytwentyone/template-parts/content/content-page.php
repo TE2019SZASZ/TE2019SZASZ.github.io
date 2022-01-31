@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_One
- * @since Twenty Twenty-One 1.0
+ * @since 1.0.0
  */
 
 ?>
@@ -17,11 +17,11 @@
 		<header class="entry-header alignwide">
 			<?php get_template_part( 'template-parts/header/entry-header' ); ?>
 			<?php twenty_twenty_one_post_thumbnail(); ?>
-		</header><!-- .entry-header -->
+		</header>
 	<?php elseif ( has_post_thumbnail() ) : ?>
 		<header class="entry-header alignwide">
 			<?php twenty_twenty_one_post_thumbnail(); ?>
-		</header><!-- .entry-header -->
+		</header>
 	<?php endif; ?>
 
 	<div class="entry-content">
@@ -32,7 +32,7 @@
 			array(
 				'before'   => '<nav class="page-links" aria-label="' . esc_attr__( 'Page', 'twentytwentyone' ) . '">',
 				'after'    => '</nav>',
-				/* translators: %: Page number. */
+				/* translators: %: page number. */
 				'pagelink' => esc_html__( 'Page %', 'twentytwentyone' ),
 			)
 		);

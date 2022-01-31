@@ -30,8 +30,6 @@
  * Note that this function is hooked into the after_setup_theme hook, which
  * runs before the init hook. The init hook is too late for some features, such
  * as indicating support for post thumbnails.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_theme_support() {
 
@@ -185,8 +183,6 @@ require get_template_directory() . '/inc/block-patterns.php';
 
 /**
  * Register and Enqueue Styles.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_register_styles() {
 
@@ -207,8 +203,6 @@ add_action( 'wp_enqueue_scripts', 'twentytwenty_register_styles' );
 
 /**
  * Register and Enqueue Scripts.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_register_scripts() {
 
@@ -231,8 +225,6 @@ add_action( 'wp_enqueue_scripts', 'twentytwenty_register_scripts' );
  * This does not enqueue the script because it is tiny and because it is only for IE11,
  * thus it does not warrant having an entire dedicated blocking script being loaded.
  *
- * @since Twenty Twenty 1.0
- *
  * @link https://git.io/vWdr2
  */
 function twentytwenty_skip_link_focus_fix() {
@@ -245,8 +237,7 @@ function twentytwenty_skip_link_focus_fix() {
 }
 add_action( 'wp_print_footer_scripts', 'twentytwenty_skip_link_focus_fix' );
 
-/**
- * Enqueue non-latin language styles.
+/** Enqueue non-latin language styles
  *
  * @since Twenty Twenty 1.0
  *
@@ -264,8 +255,6 @@ add_action( 'wp_enqueue_scripts', 'twentytwenty_non_latin_languages' );
 
 /**
  * Register navigation menus uses wp_nav_menu in five places.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_menus() {
 
@@ -284,8 +273,6 @@ add_action( 'init', 'twentytwenty_menus' );
 
 /**
  * Get the information about the logo.
- *
- * @since Twenty Twenty 1.0
  *
  * @param string $html The HTML output from get_custom_logo (core function).
  * @return string
@@ -344,19 +331,14 @@ if ( ! function_exists( 'wp_body_open' ) ) {
 
 	/**
 	 * Shim for wp_body_open, ensuring backward compatibility with versions of WordPress older than 5.2.
-	 *
-	 * @since Twenty Twenty 1.0
 	 */
 	function wp_body_open() {
-		/** This action is documented in wp-includes/general-template.php */
 		do_action( 'wp_body_open' );
 	}
 }
 
 /**
  * Include a skip to content link at the top of the page so that users can bypass the menu.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_skip_link() {
 	echo '<a class="skip-link screen-reader-text" href="#site-content">' . __( 'Skip to the content', 'twentytwenty' ) . '</a>';
@@ -366,8 +348,6 @@ add_action( 'wp_body_open', 'twentytwenty_skip_link', 5 );
 
 /**
  * Register widget areas.
- *
- * @since Twenty Twenty 1.0
  *
  * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
  */
@@ -411,8 +391,6 @@ add_action( 'widgets_init', 'twentytwenty_sidebar_registration' );
 
 /**
  * Enqueue supplemental block editor styles.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_block_editor_styles() {
 
@@ -434,8 +412,6 @@ add_action( 'enqueue_block_editor_assets', 'twentytwenty_block_editor_styles', 1
 
 /**
  * Enqueue classic editor styles.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_classic_editor_styles() {
 
@@ -452,8 +428,6 @@ add_action( 'init', 'twentytwenty_classic_editor_styles' );
 /**
  * Output Customizer settings in the classic editor.
  * Adds styles to the head of the TinyMCE iframe. Kudos to @Otto42 for the original solution.
- *
- * @since Twenty Twenty 1.0
  *
  * @param array $mce_init TinyMCE styles.
  * @return array TinyMCE styles.
@@ -505,8 +479,6 @@ add_filter( 'tiny_mce_before_init', 'twentytwenty_add_classic_editor_non_latin_s
 /**
  * Block Editor Settings.
  * Add custom colors and font sizes to the block editor.
- *
- * @since Twenty Twenty 1.0
  */
 function twentytwenty_block_editor_settings() {
 
@@ -660,7 +632,7 @@ add_action( 'customize_preview_init', 'twentytwenty_customize_preview_init' );
  *
  * @since Twenty Twenty 1.0
  *
- * @param string $area    The area we want to get the colors for.
+ * @param string $area The area we want to get the colors for.
  * @param string $context Can be 'text' or 'accent'.
  * @return string Returns a HEX color.
  */
@@ -778,11 +750,11 @@ function twentytwenty_get_elements_array() {
 	);
 
 	/**
-	 * Filters Twenty Twenty theme elements.
-	 *
-	 * @since Twenty Twenty 1.0
-	 *
-	 * @param array Array of elements.
-	 */
+	* Filters Twenty Twenty theme elements
+	*
+	* @since Twenty Twenty 1.0
+	*
+	* @param array Array of elements
+	*/
 	return apply_filters( 'twentytwenty_get_elements_array', $elements );
 }
