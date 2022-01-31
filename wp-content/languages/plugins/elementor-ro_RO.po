@@ -1,0 +1,5181 @@
+# Translation of Plugins - Elementor Website Builder - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - Elementor Website Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-31 06:24:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Elementor Website Builder - Stable (latest release)\n"
+
+#: core/kits/views/trash-kit-confirmation.php:30
+msgid "Keep my settings"
+msgstr "Păstrează-mi setările"
+
+#: core/kits/views/trash-kit-confirmation.php:17
+msgid "Are you sure you want to delete your Site Settings?"
+msgstr "Sigur vrei să ștergi setările sitului?"
+
+#: modules/page-templates/module.php:160
+msgctxt "Page Template"
+msgid "Theme"
+msgstr "Temă"
+
+#: core/editor/data/globals/endpoints/base.php:31
+msgid "The Global value you are trying to use is not available."
+msgstr "Valoarea globală pe care încerci să o folosești nu este disponibilă."
+
+#: includes/controls/media.php:160
+msgid "Choose Svg"
+msgstr "Alege Svg"
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:50
+msgid "Rerun Update Script"
+msgstr "Rulează din nou scriptul de actualizare"
+
+#: core/upgrade/elementor-3-re-migrate-globals.php:30
+#: core/upgrade/elementor-3-re-migrate-globals.php:56
+msgid "Migrate to v3.0"
+msgstr "Migrează la v3.0"
+
+#: core/kits/documents/tabs/global-colors.php:24
+#: core/kits/documents/tabs/global-colors.php:31 core/kits/manager.php:129
+#: core/editor/editor.php:617
+msgid "Global Colors"
+msgstr "Culori globale"
+
+#: includes/widgets/social-icons.php:447
+msgid "Rows Gap"
+msgstr "Decalaj între rânduri"
+
+#: includes/widgets/icon-list.php:159
+msgid "Items"
+msgstr "Elemente"
+
+#: includes/frontend.php:1165
+msgid "Download"
+msgstr "Descarcă"
+
+#: includes/settings/settings.php:468
+msgid "Looking for the Style settings?"
+msgstr "Cauți setările de stil?"
+
+#: core/upgrade/upgrades.php:808
+msgid "Saved Color"
+msgstr "Culoare salvată"
+
+#: core/settings/editor-preferences/model.php:70
+msgid "Panel Width"
+msgstr "Lățime panou"
+
+#: core/admin/admin.php:636
+msgid "Heads up, Please backup before upgrade!"
+msgstr "Atenție, înainte de actualizare, te rog să faci o copie de siguranță!"
+
+#: core/editor/editor.php:642 core/settings/editor-preferences/model.php:38
+msgid "User Preferences"
+msgstr "Preferințe utilizator"
+
+#: core/editor/editor.php:640
+msgid "Site Settings"
+msgstr "Setări sit"
+
+#: core/editor/editor.php:636
+msgid "Are you sure you want to create a new Global Font setting?"
+msgstr "Sigur vrei să creezi o setare font global nou?"
+
+#: core/editor/editor.php:633
+msgid "Are you sure you want to create a new Global Color?"
+msgstr "Sigur vrei să creezi o culoare globală nouă?"
+
+#: core/editor/editor.php:628
+msgid "Delete Global Font"
+msgstr "Șterge fontul global"
+
+#: core/editor/editor.php:627
+msgid "Create New Global Font"
+msgstr "Creează un font global nou"
+
+#: core/editor/editor.php:626
+msgid "Manage Global Fonts"
+msgstr "Administrează fonturile globale"
+
+#: core/editor/editor.php:624
+msgid "New Typography Setting"
+msgstr "Setare tipografice noi"
+
+#: core/editor/editor.php:622
+msgid "Global Colors help you work smarter. Save a color, and use it anywhere throughout your site. Access and edit your global colors by clicking the Manage button."
+msgstr "Culorile globale te ajută să lucrezi mai inteligent. Salvezi o culoare și o folosești oriunde, pe tot situl. Accesezi și editezi culorile globale dând clic pe butonul Administrează."
+
+#: core/editor/editor.php:620
+msgid "Delete Global Color"
+msgstr "Șterge culoare globală"
+
+#: core/editor/editor.php:619
+msgid "Create New Global Color"
+msgstr "Creează o culoare globală nouă"
+
+#: core/editor/editor.php:618
+msgid "Manage Global Colors"
+msgstr "Administrează culorile globale"
+
+#: core/editor/editor.php:616
+msgid "New Global Color"
+msgstr "Culoare globală nouă"
+
+#: core/kits/manager.php:140
+msgid "Your changes have been updated."
+msgstr "Modificările tale au fost actualizate."
+
+#: core/kits/manager.php:139
+msgid "Additional Settings"
+msgstr "Setări suplimentare"
+
+#: core/kits/manager.php:132
+msgid "System Font can't be deleted"
+msgstr "Fontul sistemului nu poate fi șters"
+
+#: core/kits/manager.php:131
+msgid "System Color can't be deleted"
+msgstr "Culoarea sistemului nu poate fi ștearsă"
+
+#: core/kits/manager.php:130
+msgid "Invalid"
+msgstr "Invalid"
+
+#: core/kits/manager.php:126
+msgid "New Item"
+msgstr "Element nou"
+
+#: core/kits/manager.php:125
+msgid "Add Style"
+msgstr "Adaugă stil"
+
+#: core/kits/manager.php:124
+msgid "Add Color"
+msgstr "Adaugă o culoare"
+
+#: core/kits/documents/tabs/global-typography.php:163
+msgid "Fallback Font Family"
+msgstr "Familie de fonturi alternativă"
+
+#: core/kits/documents/tabs/settings-background.php:55
+msgid "The `theme-color` meta tag will only be available in supported browsers and devices."
+msgstr "Tagul meta „theme-color” va fi disponibil numai în navigatoarele și pe dispozitivele acceptate."
+
+#: core/kits/documents/tabs/settings-background.php:53
+msgid "Mobile Browser Background"
+msgstr "Fundal navigator pentru mobil"
+
+#: core/kits/documents/tabs/settings-site-identity.php:94
+msgid "Suggested favicon dimensions: 512 × 512 pixels."
+msgstr "Dimensiuni sugerate pentru favicon: 512 × 512 pixeli."
+
+#: core/kits/documents/tabs/settings-site-identity.php:87
+msgid "Site Favicon"
+msgstr "Favicon sit"
+
+#: core/kits/documents/tabs/settings-site-identity.php:80
+msgid "Suggested image dimensions: 350 × 100 pixels."
+msgstr "Dimensiuni sugerate pentru imagine: 350 × 100 pixeli."
+
+#: core/kits/documents/tabs/settings-site-identity.php:73
+msgid "Site Logo"
+msgstr "Logo sit"
+
+#: core/kits/documents/tabs/settings-site-identity.php:65
+msgid "Choose description"
+msgstr "Alege o descriere"
+
+#: core/kits/documents/tabs/settings-site-identity.php:63
+msgid "Site Description"
+msgstr "Descriere sit"
+
+#: core/kits/documents/tabs/settings-site-identity.php:55
+msgid "Choose name"
+msgstr "Alege un nume"
+
+#: core/kits/documents/tabs/settings-site-identity.php:53
+msgid "Site Name"
+msgstr "Nume sit"
+
+#: core/kits/documents/tabs/settings-site-identity.php:20
+#: core/kits/manager.php:120
+msgid "Site Identity"
+msgstr "Identitate sit"
+
+#: core/kits/documents/tabs/settings-layout.php:126
+msgid "Theme"
+msgstr "Temă"
+
+#: core/kits/documents/tabs/settings-layout.php:123
+msgid "Default Page Layout"
+msgstr "Aranjament pagină implicită"
+
+#: core/kits/documents/tabs/settings-layout.php:30
+msgid "Layout Settings"
+msgstr "Setări aranjament"
+
+#: modules/page-templates/module.php:349
+#: core/kits/documents/tabs/settings-site-identity.php:45
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "Modificările vor fi reflectate în previzualizare numai după ce paginile sunt reîncărcate."
+
+#: core/common/modules/connect/apps/base-app.php:80
+msgid "Reset Data"
+msgstr "Resetează datele"
+
+#: includes/controls/media.php:171
+msgid "Click the media icon to upload file"
+msgstr "Dă clic pe iconul media pentru a încărca fișierul"
+
+#: includes/settings/settings.php:268
+msgid "Watch the Full Guide"
+msgstr "Vezi ghidul complet"
+
+#: includes/frontend.php:1166
+msgid "Download image"
+msgstr "Descarcă imaginea"
+
+#: includes/frontend.php:1164
+msgid "Pin it"
+msgstr "Partajează pe Pinterest"
+
+#: includes/frontend.php:1163
+msgid "Share on Twitter"
+msgstr "Partajează pe Twitter"
+
+#: includes/frontend.php:1162
+msgid "Share on Facebook"
+msgstr "Partajează pe Facebook"
+
+#: includes/controls/url.php:116
+msgid "Custom Attributes"
+msgstr "Atribute personalizate"
+
+#: includes/editor-templates/panel.php:293
+msgid "See it in action"
+msgstr "Urmărește-l în acțiune"
+
+#: includes/editor-templates/panel.php:287
+msgid "Elementor Dynamic Content"
+msgstr "Conținut dinamic Elementor"
+
+#: includes/editor-templates/panel.php:267
+msgid "Dynamic Tags"
+msgstr "Etichete dinamice"
+
+#: includes/managers/controls.php:955
+msgid "Attributes"
+msgstr "Atribute"
+
+#: core/kits/documents/tabs/settings-lightbox.php:174
+msgid "Navigation Icons Size"
+msgstr "Dimensiuni iconuri de navigare"
+
+#: core/kits/documents/tabs/settings-lightbox.php:162
+msgid "Toolbar Icons Size"
+msgstr "Dimensiuni iconuri în bara de unelte"
+
+#: includes/frontend.php:1169 core/kits/documents/tabs/settings-lightbox.php:74
+msgid "Share"
+msgstr "Partajează"
+
+#: includes/frontend.php:1167 core/kits/documents/tabs/settings-lightbox.php:54
+msgid "Fullscreen"
+msgstr "Ecran complet"
+
+#: core/editor/editor.php:790
+msgid "Dynamic Content"
+msgstr "Conținut dinamic"
+
+#: core/editor/editor.php:787
+msgid "%s Widget"
+msgstr "Piesă %s"
+
+#: core/kits/manager.php:123
+msgid "Theme Style"
+msgstr "Stil temă"
+
+#: core/kits/manager.php:119
+msgid "Back"
+msgstr "Înapoi"
+
+#: core/kits/manager.php:86
+msgid "Default Kit"
+msgstr "Kit implicit"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:88
+msgid "Field"
+msgstr "Câmp"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:59
+msgid "Label"
+msgstr "Etichetă"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:21
+#: core/kits/documents/tabs/theme-style-form-fields.php:48
+#: core/kits/manager.php:136
+msgid "Form Fields"
+msgstr "Câmpuri formular"
+
+#: core/kits/documents/tabs/theme-style-typography.php:65
+msgid "Paragraph Spacing"
+msgstr "Spațiu între paragrafe"
+
+#: core/kits/documents/tabs/theme-style-typography.php:37
+msgid "Body"
+msgstr "Corp"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:22
+#: core/kits/documents/tabs/theme-style-buttons.php:50
+#: core/kits/manager.php:134
+msgid "Buttons"
+msgstr "Butoane"
+
+#: core/kits/documents/kit.php:115
+msgid "Draft"
+msgstr "Ciornă"
+
+#: modules/history/module.php:62
+msgid "Settings Reset"
+msgstr "Resetare setări"
+
+#: core/common/modules/connect/apps/base-app.php:131
+msgid "Already connected."
+msgstr "Deja conectat."
+
+#: includes/widgets/common.php:370
+msgid "Positioning"
+msgstr "Poziționare"
+
+#. translators: %s: Video provider
+#: includes/embed.php:155
+msgid "%s Video Player"
+msgstr "Player video %s"
+
+#: includes/controls/groups/background.php:701
+msgid "Background Position"
+msgstr "Poziție fundal"
+
+#: includes/widgets/image.php:365 includes/controls/groups/background.php:690
+msgid "Contain"
+msgstr "Conține"
+
+#: includes/widgets/image.php:364 includes/controls/groups/background.php:689
+msgid "Cover"
+msgstr "Copertă"
+
+#: includes/widgets/social-icons.php:276
+#: includes/controls/groups/background.php:688
+msgid "Auto"
+msgstr "Automat"
+
+#: includes/controls/groups/background.php:682
+msgid "Background Size"
+msgstr "Dimensiune fundal"
+
+#: includes/settings/settings.php:449
+msgid "Usage Data Sharing"
+msgstr "Partajarea datelor de utilizare"
+
+#: modules/history/module.php:63
+msgid "Enabled"
+msgstr "Activată"
+
+#: core/editor/editor.php:644
+msgid "More"
+msgstr "Mai mult"
+
+#: core/editor/editor.php:601
+msgid "Done"
+msgstr "Gata"
+
+#: core/common/modules/connect/apps/library.php:61
+msgid "Get Started"
+msgstr "Începe"
+
+#: core/common/modules/connect/apps/library.php:59
+msgid "Connect to Template Library"
+msgstr "Conectează-te la biblioteca de șabloane"
+
+#: core/common/modules/connect/apps/library.php:25
+msgid "Connecting to the Library failed. Please try reloading the page and try again"
+msgstr "Conectarea la bibliotecă a eșuat. Te rog reîncarcă pagina și încearcă din nou"
+
+#: core/common/modules/connect/apps/base-app.php:65
+msgid "Connected as %s"
+msgstr "Conectat ca %s"
+
+#: core/common/modules/connect/module.php:103
+msgid "Connected successfully"
+msgstr "Conectat cu succes"
+
+#: core/common/modules/connect/module.php:102
+msgid "Unable to connect"
+msgstr "Nu mă pot conecta"
+
+#: core/settings/editor-preferences/model.php:96
+msgid "Enable Lightbox In Editor"
+msgstr "Activează lightbox în editor"
+
+#: core/settings/editor-preferences/model.php:62
+msgid "Dark"
+msgstr "Întunecat"
+
+#: core/settings/editor-preferences/model.php:61
+msgid "Light"
+msgstr "Luminos"
+
+#: core/settings/editor-preferences/model.php:60
+msgid "Auto Detect"
+msgstr "Detectare automată"
+
+#: core/settings/editor-preferences/model.php:55
+msgid "UI Theme"
+msgstr "Temă IU"
+
+#: core/settings/editor-preferences/model.php:49
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: includes/settings/settings.php:311
+msgid "Add Your Custom Icons"
+msgstr "Adaugă-ți iconurile personalizate"
+
+#: includes/settings/settings.php:145 includes/settings/settings.php:146
+msgid "Custom Icons"
+msgstr "Iconuri personalizate"
+
+#: includes/controls/groups/background.php:654
+msgid "Transition"
+msgstr "Tranziție"
+
+#: includes/controls/groups/background.php:644
+msgid "Duration"
+msgstr "Durată"
+
+#: includes/controls/groups/background.php:622
+msgctxt "Background Control"
+msgid "Images"
+msgstr "Imagini"
+
+#: includes/controls/groups/background.php:104
+msgctxt "Background Control"
+msgid "Slideshow"
+msgstr "Prezentare"
+
+#: includes/controls/groups/background.php:100
+msgctxt "Background Control"
+msgid "Video"
+msgstr "Video"
+
+#: core/logger/log-reporter.php:33
+msgid "Clear Log"
+msgstr "Șterge jurnalul"
+
+#: includes/frontend.php:1172 includes/widgets/image-carousel.php:779
+msgid "Next"
+msgstr "Următoare"
+
+#: includes/frontend.php:1171 includes/widgets/image-carousel.php:775
+msgid "Previous"
+msgstr "Anterioară"
+
+#: includes/widgets/divider.php:622
+msgid "Amount"
+msgstr "Cantitate"
+
+#: includes/widgets/divider.php:474
+msgid "Add Element"
+msgstr "Adaugă element"
+
+#: includes/widgets/divider.php:318
+msgid "Line"
+msgstr "Linie"
+
+#: includes/widgets/divider.php:288
+msgctxt "shapes"
+msgid "X"
+msgstr "X"
+
+#: includes/widgets/divider.php:270
+msgctxt "shapes"
+msgid "Trees"
+msgstr "Copaci"
+
+#: includes/widgets/divider.php:261
+msgctxt "shapes"
+msgid "Squares"
+msgstr "Pătrate"
+
+#: includes/widgets/divider.php:252
+msgctxt "shapes"
+msgid "Stripes"
+msgstr "Dungi"
+
+#: includes/widgets/divider.php:243
+msgctxt "shapes"
+msgid "Leaves"
+msgstr "Frunze"
+
+#: includes/widgets/divider.php:225
+msgctxt "shapes"
+msgid "Fir Tree"
+msgstr "Brad"
+
+#: includes/widgets/divider.php:216
+msgctxt "shapes"
+msgid "Dots"
+msgstr "Puncte"
+
+#: includes/widgets/divider.php:207
+msgctxt "shapes"
+msgid "Rectangles"
+msgstr "Dreptunghiuri"
+
+#: includes/widgets/divider.php:199
+msgctxt "shapes"
+msgid "Parallelogram"
+msgstr "Paralelogram"
+
+#: includes/widgets/divider.php:191
+msgctxt "shapes"
+msgid "Rhombus"
+msgstr "Romburi"
+
+#: includes/widgets/divider.php:183
+msgctxt "shapes"
+msgid "Pluses"
+msgstr "Plusuri"
+
+#: includes/widgets/divider.php:175
+msgctxt "shapes"
+msgid "Arrows"
+msgstr "Săgeți"
+
+#: includes/widgets/divider.php:167 includes/widgets/divider.php:297
+msgctxt "shapes"
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: includes/widgets/image-gallery.php:44
+msgid "Basic Gallery"
+msgstr "Galerie de bază"
+
+#: includes/controls/groups/background.php:726
+msgid "Ken Burns Effect"
+msgstr "Efect Ken Burns"
+
+#: includes/widgets/video.php:285 includes/controls/groups/background.php:599
+msgid "Play On Mobile"
+msgstr "Redă pe mobil"
+
+#: includes/controls/groups/background.php:554
+msgid "YouTube/Vimeo link, or link to video file (mp4 is recommended)."
+msgstr "Legătură YouTube/Vimeo sau legătura la fișierul video (este recomandat un fișier mp4)."
+
+#: includes/settings/tools.php:294 includes/settings/tools.php:296
+msgid "Reinstall"
+msgstr "Reinstalează"
+
+#: includes/settings/tools.php:103
+msgid "Error occurred, The version selected is invalid. Try selecting different version."
+msgstr "A apărut o eroare, versiunea selectată este invalidă. Încearcă să selectezi o altă versiune."
+
+#: core/document-types/post.php:30
+msgid "Post"
+msgstr "Articol"
+
+#: core/debug/classes/htaccess.php:29
+msgid "File Path: %s"
+msgstr "Cale fișier: %s"
+
+#: includes/editor-templates/panel.php:30
+#: includes/editor-templates/panel.php:182 core/kits/views/panel.php:12
+msgid "Need Help"
+msgstr "Am nevoie de ajutor"
+
+#: includes/controls/groups/background.php:589
+msgid "Play Once"
+msgstr "Rulează o dată"
+
+#: includes/controls/icons.php:89 includes/controls/icons.php:115
+#: includes/controls/icons.php:117
+msgid "Upload SVG"
+msgstr "Încarcă SVG"
+
+#: includes/controls/media.php:163
+msgid "Choose Video"
+msgstr "Alege video"
+
+#: includes/admin-templates/beta-tester.php:31
+msgid "Your Email"
+msgstr "Emailul tău"
+
+#: includes/admin-templates/beta-tester.php:28
+msgid "Get Beta Updates"
+msgstr "Primești actualizări Beta"
+
+#: includes/settings/settings.php:519
+msgid "We recommend you only enable this feature if you understand the security risks involved."
+msgstr "Recomandăm să activezi această funcționalitate numai dacă înțelegi ce riscuri de securitate implică."
+
+#: includes/template-library/sources/local.php:534
+msgid "Template not exist."
+msgstr "Șablonul nu există."
+
+#: includes/base/widget-base.php:869
+msgid "Deprecated"
+msgstr "Învechit"
+
+#: includes/managers/icons.php:421
+msgid "Font Awesome 5 Migration"
+msgstr "Migrare Font Awesome 5"
+
+#: includes/managers/icons.php:375
+msgid "Upgrade To Font Awesome 5"
+msgstr "Actualizează la Font Awesome 5"
+
+#: includes/managers/icons.php:364
+msgid "This action is not reversible and cannot be undone by rolling back to previous versions."
+msgstr "Această acțiune nu este reversibilă și nu poate fi anulată prin restaurare la versiuni anterioare."
+
+#: includes/managers/icons.php:177
+msgid "All Icons"
+msgstr "Toate iconurile"
+
+#: includes/managers/icons.php:100
+msgid "Font Awesome - Solid"
+msgstr "Font Awesome - Solid"
+
+#: includes/managers/icons.php:88
+msgid "Font Awesome - Regular"
+msgstr "Font Awesome - Normal"
+
+#: core/debug/classes/htaccess.php:11
+msgid "Your site's .htaccess file appears to be missing."
+msgstr "Se pare că fișierul .htaccess pentru situl tău lipsește."
+
+#: core/debug/classes/theme-missing.php:22
+msgid "Some of your theme files are missing."
+msgstr "Lipsesc unele fișiere ale temei."
+
+#: core/files/assets/svg/svg-handler.php:657
+msgid "Invalid %1$s Format, file not uploaded for security reasons"
+msgstr "Formatul %1$s este invalid, fișierul nu a fost încărcat din motive de securitate"
+
+#: core/files/assets/files-upload-handler.php:84
+msgid "%1$s file is not allowed for security reasons"
+msgstr "Fișierul %1$s nu sunt permis din motive de securitate"
+
+#: core/files/assets/files-upload-handler.php:79
+msgid "The uploaded %1$s file is not supported. Please upload a valid %2$s file"
+msgstr "Fișierul %1$s încărcat nu este acceptat. Te rog încarcă un fișier %2$s valid"
+
+#: core/admin/admin.php:719
+msgid "Don't Show Again"
+msgstr "Nu arăta din nou"
+
+#: includes/admin-templates/beta-tester.php:36 core/admin/admin.php:718
+msgid "Sign Up"
+msgstr "Înregistrare"
+
+#: includes/controls/media.php:183 core/editor/editor.php:782
+msgid "Upload"
+msgstr "Încarcă"
+
+#: core/editor/editor.php:781
+msgid "My Libraries"
+msgstr "Bibliotecile mele"
+
+#: includes/controls/icons.php:88 includes/controls/icons.php:122
+#: includes/controls/icons.php:126 core/editor/editor.php:780
+msgid "Icon Library"
+msgstr "Bibliotecă de iconuri"
+
+#: core/editor/editor.php:774
+msgid "It has been replaced by <strong>%1$s</strong>."
+msgstr "A fost înlocuit cu <strong>%1$s</strong>."
+
+#: core/editor/editor.php:207
+msgid "Document not found."
+msgstr "Document negăsit."
+
+#: includes/widgets/common.php:601
+msgid "Vertical Orientation"
+msgstr "Orientare pe verticală"
+
+#: includes/widgets/common.php:498
+msgid "Horizontal Orientation"
+msgstr "Orientare pe orizontală"
+
+#: includes/widgets/common.php:485
+msgid "Fixed"
+msgstr "Centrat"
+
+#: includes/widgets/common.php:466
+msgid "Please note!"
+msgstr "Te rog reține!"
+
+#: includes/widgets/common.php:400
+msgid "Custom Width"
+msgstr "Lățime personalizată"
+
+#: core/editor/editor.php:785
+msgid "Custom Positioning"
+msgstr "Poziționare personalizată"
+
+#: includes/settings/controls.php:237
+msgid "Super Admin"
+msgstr "Super-administrator"
+
+#: includes/settings/settings.php:187
+msgid "Get Help"
+msgstr "Primești ajutor"
+
+#: includes/elements/section.php:442
+msgid "Hidden"
+msgstr "Ascuns"
+
+#: includes/widgets/common.php:144 includes/elements/column.php:790
+#: includes/elements/section.php:1219
+msgid "Motion Effects"
+msgstr "Efecte de mișcare"
+
+#: includes/elements/column.php:190
+msgid "Horizontal Align"
+msgstr "Aliniere pe orizontală"
+
+#: includes/elements/column.php:172 includes/elements/column.php:200
+#: includes/elements/section.php:419
+msgid "Space Evenly"
+msgstr "Spațiu uniform"
+
+#: includes/widgets/common.php:437 includes/widgets/image-carousel.php:523
+#: includes/elements/column.php:162 includes/elements/section.php:409
+msgid "Vertical Align"
+msgstr "Aliniere pe verticală"
+
+#: modules/safe-mode/module.php:360
+msgid "Having problems loading Elementor? Please enable Safe Mode to troubleshoot."
+msgstr "Ai probleme la încărcarea Elementor? Te rog activează Modul de siguranță pentru depanare."
+
+#: modules/safe-mode/module.php:286
+msgid "The issue was probably caused by one of your plugins or theme."
+msgstr "Problema a fost cauzată probabil de unul dintre module sau de temă."
+
+#: includes/widgets/menu-anchor.php:105
+msgid "Note: The ID link ONLY accepts these chars: %s"
+msgstr "Notă: legătura ID-ului acceptă numai aceste caractere: %s"
+
+#: includes/widgets/video.php:199
+msgid "Choose File"
+msgstr "Alege fișierul"
+
+#: includes/widgets/video.php:188
+msgid "External URL"
+msgstr "URL extern"
+
+#: includes/widgets/image-gallery.php:159
+msgid "Order By"
+msgstr "Ordonează după"
+
+#: includes/widgets/read-more.php:101
+msgid "Read More Text"
+msgstr "Text Citește mai mult"
+
+#: includes/widgets/read-more.php:93
+msgid "Note: This widget only affects themes that use `%s` in archive pages."
+msgstr "Notă: această piesă afectează numai temele care folosesc „%s” în paginile arhivă."
+
+#: includes/widgets/read-more.php:87
+msgid "Continue reading"
+msgstr "Continuă lectura"
+
+#: includes/widgets/read-more.php:41 includes/widgets/read-more.php:83
+msgid "Read More"
+msgstr "Citește mai mult"
+
+#: includes/widgets/google-maps.php:111
+msgid "Location"
+msgstr "Locație"
+
+#. translators: %s: Name of current post
+#: includes/frontend.php:1292
+msgid "Continue reading %s"
+msgstr "Continuă lectura %s"
+
+#: includes/frontend.php:1285
+msgid "(more&hellip;)"
+msgstr "(mai mult&hellip;)"
+
+#: includes/template-library/sources/local.php:1358
+msgctxt "Template Library"
+msgid "Filter by category"
+msgstr "Filtrează după categorie"
+
+#: includes/template-library/sources/local.php:297
+msgctxt "Template Library"
+msgid "All Categories"
+msgstr "Toate categoriile"
+
+#: includes/template-library/sources/local.php:296
+msgctxt "Template Library"
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/template-library/sources/local.php:295
+msgctxt "Template Library"
+msgid "Categories"
+msgstr "Categorii"
+
+#: includes/template-library/sources/local.php:229
+msgctxt "Template Library"
+msgid "Templates"
+msgstr "Șabloane"
+
+#: core/base/background-process/wp-background-process.php:437
+msgid "Every %d Minutes"
+msgstr "La fiecare %d minute"
+
+#: core/app/modules/site-editor/module.php:31
+msgid "Open Theme Builder"
+msgstr "Deschide constructorul de teme"
+
+#: includes/settings/settings.php:332
+msgid "Get Popup Builder"
+msgstr "Ia constructorul de popup-uri"
+
+#: includes/template-library/sources/local.php:1656
+#: includes/settings/settings.php:161
+msgid "Popups"
+msgstr "Popup-uri"
+
+#: includes/template-library/sources/local.php:1655 core/editor/editor.php:641
+#: core/app/app.php:38 core/app/app.php:39 assets/js/app-packages.js:9097
+msgid "Theme Builder"
+msgstr "Constructor de teme"
+
+#: modules/safe-mode/module.php:356
+msgid "Enable Safe Mode"
+msgstr "Activează Modul de siguranță"
+
+#: modules/safe-mode/module.php:354 modules/safe-mode/module.php:366
+msgid "Can't Edit?"
+msgstr "Nu poți edita?"
+
+#: modules/safe-mode/module.php:286 modules/safe-mode/module.php:290
+msgid "<a href=\"%s\" target=\"_blank\">Click here</a> to troubleshoot"
+msgstr "<a href=\"%s\" target=\"_blank\">Dă clic aici</a> pentru depanare"
+
+#: modules/safe-mode/module.php:289
+msgid "Still experiencing issues?"
+msgstr "Încă ai probleme?"
+
+#: modules/safe-mode/module.php:285
+msgid "Editor successfully loaded?"
+msgstr "Editorul s-a încărcat cu succes?"
+
+#: modules/safe-mode/module.php:278 modules/safe-mode/module.php:475
+msgid "Disable Safe Mode"
+msgstr "Dezactivează Modul de siguranță"
+
+#: modules/safe-mode/module.php:276
+msgid "Safe Mode ON"
+msgstr "Modul de siguranță este pornit"
+
+#: modules/safe-mode/module.php:94
+msgid "Cannot enable Safe Mode"
+msgstr "Nu pot activa Modul de siguranță"
+
+#: modules/safe-mode/module.php:41
+msgid "Safe Mode"
+msgstr "Mod în siguranță"
+
+#: core/admin/admin.php:713
+msgid "Continue"
+msgstr "Continuă"
+
+#: core/common/modules/finder/categories/general.php:44
+msgctxt "Template Library"
+msgid "Saved Templates"
+msgstr "Șabloane salvate"
+
+#. translators: %d: interval
+#: core/base/background-task.php:311
+msgid "Every %d minutes"
+msgstr "La fiecare %d minute"
+
+#: core/base/db-upgrades-manager.php:88
+msgid "%s Database update process is running in the background."
+msgstr "%s Procesul de actualizare a bazei de date rulează în fundal."
+
+#: modules/library/documents/not-supported.php:68
+msgid "Not Supported"
+msgstr "Nesuportat"
+
+#: core/common/modules/finder/categories/site.php:78
+msgid "Users"
+msgstr "Utilizatori"
+
+#: core/common/modules/finder/categories/site.php:72
+msgid "Plugins"
+msgstr "Module"
+
+#: includes/widgets/video.php:386
+msgid "Any Video"
+msgstr "Orice videoclip"
+
+#: includes/widgets/video.php:385
+msgid "Current Video Channel"
+msgstr "Canal video curent"
+
+#: includes/widgets/star-rating.php:313
+msgid "Unmarked Color"
+msgstr "Culoarea nemarcată"
+
+#: includes/widgets/star-rating.php:258
+msgid "Stars"
+msgstr "Stele"
+
+#: includes/widgets/star-rating.php:147
+msgid "Outline"
+msgstr "Contur"
+
+#: includes/widgets/star-rating.php:139
+msgid "Unmarked Style"
+msgstr "Stil nemarcat"
+
+#: includes/widgets/star-rating.php:95
+msgid "Rating Scale"
+msgstr "Scală de evaluare"
+
+#: includes/widgets/star-rating.php:88 includes/widgets/star-rating.php:108
+msgid "Rating"
+msgstr "Evaluare"
+
+#: includes/widgets/star-rating.php:45
+msgid "Star Rating"
+msgstr "Evaluare pe stele"
+
+#: includes/widgets/image.php:164 includes/widgets/image.php:173
+msgid "Custom Caption"
+msgstr "Text asociat personalizat"
+
+#: includes/widgets/image.php:163
+msgid "Attachment Caption"
+msgstr "Text asociat atașament"
+
+#: includes/editor-templates/hotkeys.php:151
+msgid "Quit"
+msgstr "Abandonare"
+
+#: includes/editor-templates/hotkeys.php:143 core/editor/editor.php:770
+msgid "Keyboard Shortcuts"
+msgstr "Scurtături tastatură"
+
+#: includes/editor-templates/hotkeys.php:100
+msgid "Show / Hide Panel"
+msgstr "Arată/ascunde panou control"
+
+#: includes/editor-templates/hotkeys.php:88
+msgid "Go To"
+msgstr "Mergi la"
+
+#: includes/editor-templates/hotkeys.php:26
+msgid "Redo"
+msgstr "Refacere"
+
+#: includes/editor-templates/hotkeys.php:18
+msgid "Undo"
+msgstr "Revenire"
+
+#: core/common/modules/finder/template.php:13
+msgid "Type to find anything in Elementor"
+msgstr "Scrie pentru a găsi ceva în Elementor"
+
+#: includes/editor-templates/hotkeys.php:92
+#: core/common/modules/finder/module.php:115
+msgid "Finder"
+msgstr "Căutător"
+
+#: core/common/modules/finder/categories/site.php:66
+msgid "Customizer"
+msgstr "Personalizator"
+
+#: core/common/modules/finder/categories/site.php:54
+msgid "Menus"
+msgstr "Meniuri"
+
+#: core/common/modules/finder/categories/site.php:48
+msgid "Dashboard"
+msgstr "Panou control"
+
+#: core/common/modules/finder/categories/site.php:42
+msgid "Homepage"
+msgstr "Prima pagină"
+
+#: core/editor/editor.php:632
+#: core/common/modules/finder/categories/create.php:28
+msgid "Create"
+msgstr "Creează"
+
+#: core/common/modules/connect/apps/base-app.php:66
+msgid "Disconnect"
+msgstr "Deconectează"
+
+#: core/common/modules/connect/apps/base-app.php:202
+msgid "Disconnected Successfully."
+msgstr "Deconectat cu succes."
+
+#: core/common/modules/connect/apps/base-app.php:190
+msgid "Connected Successfully."
+msgstr "Conectat cu succes."
+
+#: core/common/modules/connect/admin.php:24
+#: core/common/modules/connect/admin.php:25
+#: core/common/modules/connect/apps/connect.php:11
+msgid "Connect"
+msgstr "Conectează"
+
+#: core/base/document.php:1285
+msgid "Future"
+msgstr "Viitor"
+
+#: includes/widgets/video.php:521
+msgid "Lazy Load"
+msgstr "Încărcare lentă"
+
+#: includes/widgets/video.php:134 includes/widgets/video.php:155
+#: includes/widgets/video.php:176 includes/widgets/video.php:232
+msgid "Enter your URL"
+msgstr "Introdu URL-ul tău"
+
+#: includes/widgets/toggle.php:127 includes/widgets/toggle.php:131
+#: includes/widgets/accordion.php:126 includes/widgets/accordion.php:130
+#: includes/widgets/text-editor.php:114 includes/widgets/testimonial.php:101
+#: includes/widgets/tabs.php:129 includes/widgets/tabs.php:133
+#: includes/widgets/icon-box.php:160 includes/widgets/image-box.php:137
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#. translators: %d: Breakpoint value
+#: core/kits/documents/tabs/settings-layout.php:160
+msgid "Sets the breakpoint between tablet and mobile devices. Below this breakpoint mobile layout will appear (Default: %dpx)."
+msgstr "Setează punctul de întrerupere între tabletă și dispozitivele mobile. Sub această întrerupere va apărea aspectul mobil (implicit: %dpx)."
+
+#. translators: %d: Breakpoint value
+#: core/kits/documents/tabs/settings-layout.php:182
+msgid "Sets the breakpoint between desktop and tablet devices. Below this breakpoint tablet layout will appear (Default: %dpx)."
+msgstr "Setează punctul de întrerupere între dispozitivele desktop și tablete. Sub această întrerupere va apărea aspectul de tabletă (implicit: %dpx)."
+
+#: includes/settings/settings.php:255
+msgid "Welcome to Elementor"
+msgstr "Bun venit la Elementor"
+
+#: includes/settings/settings.php:233
+msgid "Create Your First Post"
+msgstr "Creează primul tău articol"
+
+#: includes/settings/settings.php:230
+msgid "Create Your First Page"
+msgstr "Creează prima ta pagină"
+
+#: includes/settings/settings.php:178 includes/settings/settings.php:246
+msgid "Getting Started"
+msgstr "Noțiuni de bază"
+
+#: core/editor/editor.php:650
+msgid "Inner Section"
+msgstr "Secțiune interioară"
+
+#: includes/editor-templates/navigator.php:51
+msgid "Easy Navigation is Here!"
+msgstr "Easy Navigation este aici!"
+
+#: includes/editor-templates/navigator.php:46
+msgid "Empty"
+msgstr "Golește"
+
+#: includes/editor-templates/navigator.php:12
+#: includes/editor-templates/panel.php:72
+#: includes/editor-templates/panel.php:74
+#: includes/editor-templates/hotkeys.php:126 core/editor/editor.php:763
+msgid "Navigator"
+msgstr "Navigator"
+
+#: includes/settings/settings.php:249 includes/settings/settings.php:250
+#: includes/editor-templates/library-layout.php:13
+msgid "Skip"
+msgstr "Sari peste"
+
+#: includes/controls/url.php:68
+msgid "Paste URL or type"
+msgstr "Plasează URL-ul sau scrie-l"
+
+#: includes/controls/groups/css-filter.php:132
+msgctxt "Filter Control"
+msgid "Hue"
+msgstr "Nuanță"
+
+#: core/debug/inspector.php:49
+msgid "Debug Bar"
+msgstr "Bară de depanare"
+
+#: core/admin/admin-notices.php:265
+msgid "Hide Notification"
+msgstr "Ascunde notificarea"
+
+#: core/admin/admin-notices.php:264
+msgid "Happy To Help"
+msgstr "Bucuros să ajut"
+
+#: core/admin/admin-notices.php:262
+msgid "Congrats!"
+msgstr "Felicitări!"
+
+#: includes/frontend.php:1168 includes/widgets/google-maps.php:128
+#: core/kits/documents/tabs/settings-lightbox.php:64
+msgid "Zoom"
+msgstr "Mărește"
+
+#: core/debug/inspector.php:57
+msgid "Debug Bar adds an admin bar menu that lists all the templates that are used on a page that is being displayed."
+msgstr "Bara de depanare adaugă un meniu bară de administrare care afișează toate șabloanele care sunt folosite pe o pagină care este afișată."
+
+#: core/document-types/page-base.php:41
+msgid "Single"
+msgstr "Singular"
+
+#: modules/history/module.php:65
+msgid "All Content"
+msgstr "Tot conținutul"
+
+#: modules/history/module.php:61
+msgid "Style Reset"
+msgstr "Resetare stil"
+
+#: modules/history/module.php:60
+msgid "Style Pasted"
+msgstr "Stil plasat"
+
+#: includes/widgets/video.php:355
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/widgets/video.php:329
+msgid "Video Info"
+msgstr "Informații despre video"
+
+#: includes/widgets/video.php:218
+msgid "URL"
+msgstr "URL"
+
+#: includes/widgets/video.php:117
+msgid "Self Hosted"
+msgstr "Auto-găzduit"
+
+#: includes/widgets/video.php:116
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: includes/widgets/video.php:110
+msgid "Source"
+msgstr "Sursă"
+
+#: includes/widgets/button.php:261
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows <code>A-z 0-9</code> & underscore chars without spaces."
+msgstr "Te rog asigură-te că ID-ul este unic și nu este folosit în altă parte pe pagina în care acest formular este afișat. Acest field permite caracterele <code>A-z 0-9</code> și liniuță-jos, fără spații."
+
+#: includes/widgets/button.php:254
+msgid "Button ID"
+msgstr "ID buton"
+
+#: includes/widgets/audio.php:185
+msgid "Artwork"
+msgstr "Artwork"
+
+#: includes/managers/elements.php:287
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/managers/elements.php:283
+#: core/common/modules/finder/categories/site.php:26
+msgid "Site"
+msgstr "Sit"
+
+#: includes/managers/elements.php:276
+msgid "Pro"
+msgstr "Pro"
+
+#: core/editor/editor.php:602
+msgid "Got It"
+msgstr "Am înțeles"
+
+#: core/editor/editor.php:767
+msgid "Now you can access all editing actions using right click."
+msgstr "Acum poți accesa toate acțiunile de editare folosind clic dreapta."
+
+#: core/editor/editor.php:761
+msgid "Copy All Content"
+msgstr "Copiază tot conținutul"
+
+#: core/editor/editor.php:758
+msgid "Save as a Global"
+msgstr "Salvare ca global"
+
+#: core/editor/editor.php:757
+msgid "Reset Style"
+msgstr "Resetează stilul"
+
+#: core/editor/editor.php:755
+msgid "Copy Style"
+msgstr "Copiază stilul"
+
+#: includes/editor-templates/hotkeys.php:35 core/editor/editor.php:753
+msgid "Copy"
+msgstr "Copiază"
+
+#: includes/editor-templates/panel.php:96
+#: includes/editor-templates/panel.php:101
+msgid "Preview for %s"
+msgstr "Previzualizare pentru %s"
+
+#: includes/editor-templates/global.php:27
+msgid "Drag widget here"
+msgstr "Trage piesa aici"
+
+#: includes/controls/groups/css-filter.php:166
+msgctxt "Filter Control"
+msgid "CSS Filters"
+msgstr "Filtre CSS"
+
+#: includes/controls/groups/css-filter.php:115
+msgctxt "Filter Control"
+msgid "Saturation"
+msgstr "Saturație"
+
+#: includes/controls/groups/css-filter.php:98
+msgctxt "Filter Control"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: includes/controls/groups/css-filter.php:81
+msgctxt "Filter Control"
+msgid "Brightness"
+msgstr "Strălucire"
+
+#: includes/controls/groups/css-filter.php:62
+msgctxt "Filter Control"
+msgid "Blur"
+msgstr "Estompare"
+
+#: includes/widgets/video.php:257 includes/controls/groups/background.php:579
+msgid "Specify an end time (in seconds)"
+msgstr "Specifică o oră de încheiere (în secunde)"
+
+#: includes/widgets/video.php:255 includes/controls/groups/background.php:577
+msgid "End Time"
+msgstr "Oră de încheiere"
+
+#: includes/widgets/video.php:245 includes/controls/groups/background.php:567
+msgid "Specify a start time (in seconds)"
+msgstr "Specifică o oră de începere (în secunde)"
+
+#: includes/widgets/video.php:243 includes/controls/groups/background.php:565
+msgid "Start Time"
+msgstr "Oră de începere"
+
+#: core/admin/feedback.php:115
+msgid "Wait! Don't deactivate Elementor. You have to activate both Elementor and Elementor Pro in order for the plugin to work."
+msgstr "Așteaptă! Nu dezactiva Elementor. Pentru ca modulul să funcționeze, trebuie să activezi atât Elementor cât și Elementor Pro."
+
+#: core/admin/feedback.php:113
+msgid "I have Elementor Pro"
+msgstr "Am Elementor Pro"
+
+#: core/debug/inspector.php:115
+msgid "Elementor Debugger"
+msgstr "Depanator Elementor"
+
+#: core/admin/admin.php:151 core/admin/admin.php:717
+msgid "Back to WordPress Editor"
+msgstr "Înapoi la editorul WordPress"
+
+#. translators: %s: Document title
+#: core/documents-manager.php:359
+msgid "Elementor %s"
+msgstr "Elementor %s"
+
+#. translators: %s: Template type label.
+#. translators: %s the title of the post type
+#: includes/template-library/sources/local.php:1330
+#: core/common/modules/finder/categories/create.php:62
+msgid "Add New %s"
+msgstr "Adaugă %s nouă"
+
+#. translators: %d: Number of rows
+#: includes/utils.php:139
+msgid "%d row affected."
+msgid_plural "%d rows affected."
+msgstr[0] "%d rând afectat."
+msgstr[1] "%d rânduri afectate."
+msgstr[2] "%d de rânduri afectate."
+
+#: modules/page-templates/module.php:159
+msgctxt "Page Template"
+msgid "Elementor Full Width"
+msgstr "Lățime completă Elementor"
+
+#: modules/page-templates/module.php:158
+msgctxt "Page Template"
+msgid "Elementor Canvas"
+msgstr "Pânză Elementor"
+
+#: includes/widgets/image.php:393 includes/widgets/image.php:427
+#: includes/widgets/image-box.php:312 includes/widgets/image-box.php:366
+#: includes/elements/column.php:354 includes/elements/column.php:425
+#: includes/elements/section.php:616 includes/elements/section.php:717
+#: core/kits/documents/tabs/theme-style-images.php:83
+#: core/kits/documents/tabs/theme-style-images.php:154
+msgid "Opacity"
+msgstr "Opacitate"
+
+#: includes/plugin.php:458 includes/plugin.php:471 core/base/module.php:124
+#: core/base/module.php:137
+msgid "Something went wrong."
+msgstr "Ceva nu a mers bine."
+
+#: includes/widgets/image.php:290
+msgid "Max Width"
+msgstr "Lățime maximă"
+
+#: includes/widgets/common.php:479 includes/widgets/divider.php:713
+#: includes/widgets/divider.php:853 includes/widgets/image-carousel.php:399
+#: includes/widgets/image-carousel.php:462
+msgid "Position"
+msgstr "Poziție"
+
+#: includes/admin-templates/new-template.php:41
+msgid "Templates Help You <span>Work Efficiently</span>"
+msgstr "Șabloanele te ajută să <span>lucrezi eficient</span>"
+
+#: core/admin/admin.php:715
+msgid "New Template"
+msgstr "Șablon nou"
+
+#. translators: %s: Element type.
+#: core/editor/editor.php:610
+msgid "Delete %s"
+msgstr "Șterge %s"
+
+#. translators: 1: Elementor, 2: Link to plugin review
+#: core/admin/admin.php:331
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Ți-a plăcut %1$s? Lasă-ne o evaluare la %2$s. Apreciem cu adevărat sprijinul tău!"
+
+#: core/common/modules/finder/categories/general.php:62
+msgid "Knowledge Base"
+msgstr "Bază de cunoștințe"
+
+#: modules/page-templates/module.php:336
+msgid "This template includes the header, full-width content and footer"
+msgstr "Acest șablon include antetul, conținutul în lățime completă și subsolul"
+
+#: modules/page-templates/module.php:324
+msgid "No header, no footer, just Elementor"
+msgstr "Fără antet, fără subsol, doar Elementor"
+
+#: modules/page-templates/module.php:312
+msgid "Default Page Template from your theme"
+msgstr "Șablonul implicit de pagină din temă ta"
+
+#: modules/page-templates/module.php:293
+msgid "Page Layout"
+msgstr "Aranjament pagină"
+
+#: modules/history/views/revisions-panel-template.php:57
+msgid "Current"
+msgstr "Curent"
+
+#: includes/frontend.php:1170 includes/widgets/video.php:883
+msgid "Play Video"
+msgstr "Rulează videoul"
+
+#: includes/widgets/common.php:384 includes/widgets/icon-list.php:104
+#: includes/widgets/icon-list.php:196
+msgid "Inline"
+msgstr "În-linie"
+
+#: includes/widgets/counter.php:181
+msgid "Separator"
+msgstr "Separator"
+
+#: includes/template-library/sources/local.php:1312
+msgid "Add templates and reuse them across your website. Easily export and import them to any other project, for an optimized workflow."
+msgstr "Adaugă șabloane și le refolosești pe situl tău web. Le exporți și imporți cu ușurință în orice alt proiect, pentru un flux de lucru optimizat."
+
+#. translators: %s: Template type label.
+#: includes/template-library/sources/local.php:1323
+msgid "Create Your First %s"
+msgstr "Creează-ți prima %s"
+
+#: includes/template-library/sources/local.php:1217
+msgid "All"
+msgstr "Tot"
+
+#: includes/template-library/sources/local.php:217
+msgctxt "Template Library"
+msgid "My Templates"
+msgstr "Șabloanele mele"
+
+#: includes/admin-templates/new-template.php:89
+msgid "Create Template"
+msgstr "Creează șablon"
+
+#: includes/admin-templates/new-template.php:86
+msgid "Enter template name (optional)"
+msgstr "Introdu numele șablonului (opțional)"
+
+#: includes/admin-templates/new-template.php:83
+msgid "Name your template"
+msgstr "Numește-ți șablonul"
+
+#: includes/admin-templates/new-template.php:58
+msgid "Select the type of template you want to work on"
+msgstr "Selectează tipul de șablon cu care vrei să lucrezi"
+
+#: includes/admin-templates/new-template.php:56
+msgid "Choose Template Type"
+msgstr "Alege tipul de șablon"
+
+#: includes/admin-templates/new-template.php:42
+msgid "Use templates to create the different pieces of your site, and reuse them with one click whenever needed."
+msgstr "Folosește șabloane pentru a crea diverse părți ale sitului și le refolosești cu un singur clic ori de câte ori este nevoie."
+
+#: includes/settings/settings.php:291
+msgid "Custom Fonts allows you to add your self-hosted fonts and use them on your Elementor projects to create a unique brand language."
+msgstr "Fonturile personalizate îți permit să adaugi fonturi auto-găzduite și să le folosești în proiectele Elementor pentru a crea un limbaj unic de brand."
+
+#: includes/settings/settings.php:290
+msgid "Add Your Custom Fonts"
+msgstr "Adaugă fonturile tale personalizate"
+
+#: includes/settings/settings.php:136 includes/settings/settings.php:137
+msgid "Custom Fonts"
+msgstr "Fonturi personalizate"
+
+#: core/editor/editor.php:677
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/editor-templates/templates.php:177
+msgid "More actions"
+msgstr "Mai multe acțiuni"
+
+#: includes/editor-templates/templates.php:100
+msgid "Search Templates:"
+msgstr "Caută șabloane:"
+
+#: core/editor/editor.php:699
+msgid "Pages"
+msgstr "Pagini"
+
+#: core/editor/editor.php:698
+msgid "Blocks"
+msgstr "Blocuri"
+
+#: core/dynamic-tags/manager.php:58
+msgid "Dynamic"
+msgstr "Dinamic"
+
+#: includes/editor-templates/global.php:48
+msgid "This tag has no settings."
+msgstr "Această etichetă nu are setări."
+
+#: includes/controls/groups/border.php:68
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "Canelură"
+
+#. translators: %s: Document title
+#: includes/editor-templates/panel.php:70 core/base/document.php:913
+#: core/settings/page/model.php:126
+msgid "%s Settings"
+msgstr "Setări %s"
+
+#: core/role-manager/role-manager.php:167
+msgid "Want to give access only to content?"
+msgstr "Vrei să dai acces numai la conținut?"
+
+#: core/role-manager/role-manager.php:132
+msgid "No access to editor"
+msgstr "Fără acces la editor"
+
+#: core/role-manager/role-manager.php:125
+msgid "Role Excluded"
+msgstr "Rol exclus"
+
+#: core/role-manager/role-manager.php:89
+msgid "Manage What Your Users Can Edit In Elementor"
+msgstr "Administrează ce pot edita utilizatorii tăi în Elementor"
+
+#: core/role-manager/role-manager.php:31
+#: core/common/modules/finder/categories/general.php:56
+msgid "Role Manager"
+msgstr "Manager roluri"
+
+#: core/dynamic-tags/tag.php:109
+msgid "Fallback"
+msgstr "Alternativă"
+
+#: core/document-types/page-base.php:175
+msgid "Featured Image"
+msgstr "Imagine reprezentativă"
+
+#: core/document-types/page-base.php:109
+msgid "Body Style"
+msgstr "Stil corp"
+
+#: core/base/document.php:127
+msgid "Document"
+msgstr "Document"
+
+#: core/common/modules/ajax/module.php:161
+msgid "Action not found."
+msgstr "Acțiune negăsită."
+
+#: includes/template-library/manager.php:549
+msgid "Post not found."
+msgstr "Articol negăsit."
+
+#: core/common/modules/ajax/module.php:130
+msgid "Token Expired."
+msgstr "Token expirat."
+
+#: includes/widgets/image-carousel.php:133
+msgid "Set how many slides are scrolled per swipe."
+msgstr "Setează câte diapozitive sunt derulate la o atingere."
+
+#: includes/controls/groups/background.php:444
+msgid "Note: Attachment Fixed works only on desktop."
+msgstr "Notă: atașamentul fix funcționează numai pe desktop."
+
+#: core/admin/admin.php:392
+msgid "Create New Post"
+msgstr "Creează un articol nou"
+
+#: includes/fonts.php:69
+msgid "Google Early Access"
+msgstr "Early Access Google "
+
+#: core/editor/editor.php:749
+msgid "Unknown Error"
+msgstr "Eroare necunoscută"
+
+#: core/editor/editor.php:748
+msgid "Connection Lost"
+msgstr "Conexiune pierdută"
+
+#: core/editor/editor.php:747
+msgid "Server Error"
+msgstr "Eroare server"
+
+#: core/editor/editor.php:744
+msgid "Saving has been disabled until you’re reconnected."
+msgstr "Salvarea a fost dezactivată până când ești reconectat."
+
+#: modules/history/revisions-manager.php:355
+msgid "There is an autosave of this post that is more recent than the version below. You can restore the saved data fron the Revisions panel"
+msgstr "Există o salvare automată a acestui articol care este mai recentă decât versiunea de mai jos. Poți restaura datele salvate din panoul Revizii"
+
+#: modules/history/revisions-manager.php:354
+msgid "Restore Auto Saved Data"
+msgstr "Restaurează datele salvate automat"
+
+#: modules/history/revisions-manager.php:353
+msgid "Restore"
+msgstr "Restaurează"
+
+#: modules/history/revisions-manager.php:352
+msgid "Current Version"
+msgstr "Versiune actuală"
+
+#: modules/history/revisions-manager.php:349
+msgid "Edit Published"
+msgstr "Editează articolele publicate"
+
+#: modules/history/revisions-manager.php:348
+msgid "Edit Draft"
+msgstr "Editează ciorna"
+
+#: includes/widgets/video.php:372
+msgid "When you turn on privacy mode, YouTube won't store information about visitors on your website unless they play the video."
+msgstr "Când activezi modul confidențialitate, YouTube nu va stoca informații despre vizitatorii sitului tău decât dacă ei rulează videoul."
+
+#: includes/widgets/video.php:370
+msgid "Privacy Mode"
+msgstr "Mod confidențialitate"
+
+#: includes/widgets/shortcode.php:106
+msgid "Enter your shortcode"
+msgstr "Introdu scurtcodul tău"
+
+#: includes/widgets/image.php:176
+msgid "Enter your image caption"
+msgstr "Introdu textul asociat pentru imaginea ta"
+
+#: includes/widgets/html.php:95
+msgid "Enter your code"
+msgstr "Introdu codul tău"
+
+#: includes/widgets/heading.php:117
+msgid "Add Your Heading Text Here"
+msgstr "Adaugă aici textul pentru subtitlu"
+
+#: includes/widgets/alert.php:314 includes/widgets/alert.php:346
+msgid "Dismiss alert"
+msgstr "Ignoră alerta"
+
+#: includes/widgets/alert.php:127 includes/widgets/icon-box.php:161
+#: includes/widgets/image-box.php:138
+msgid "Enter your description"
+msgstr "Introdu descrierea ta"
+
+#: includes/widgets/alert.php:114
+msgid "This is an Alert"
+msgstr "Aceasta este o alertă"
+
+#: includes/widgets/toggle.php:178 includes/widgets/accordion.php:177
+msgid "Active Icon"
+msgstr "Icon activ"
+
+#. translators: 1: Editing date, 2: Author display name
+#: core/base/document.php:1156
+msgid "Last edited on %1$s by %2$s"
+msgstr "Ultima editare pe %1$s de %2$s"
+
+#. translators: 1: Saving date, 2: Author display name
+#: core/base/document.php:1153
+msgid "Draft saved on %1$s by %2$s"
+msgstr "Ciornă salvată pe %1$s de %2$s"
+
+#: core/base/document.php:1148
+msgctxt "revision date format"
+msgid "M j, H:i"
+msgstr "j M G:i"
+
+#: core/editor/editor.php:743 core/common/modules/connect/apps/base-app.php:576
+msgid "Dismiss"
+msgstr "Refuză"
+
+#: core/editor/editor.php:742
+msgid "View All Revisions"
+msgstr "Vezi toate reviziile"
+
+#: core/editor/editor.php:741
+msgid "Have a look"
+msgstr "Uită-te"
+
+#: core/editor/editor.php:740
+msgid "Keep Editing"
+msgstr "Continuă editarea"
+
+#: core/editor/editor.php:739
+msgid "This is just a draft. Play around and when you're done - click update."
+msgstr "Acesta este doar o ciornă. Lucrează la ea și când ai terminat - dă clic pe actualizează."
+
+#. translators: %s: the document title.
+#: core/base/document.php:110
+msgid "Hurray! Your %s is live."
+msgstr "Ura! %s tău este live."
+
+#: core/editor/editor.php:738
+msgid "Submit"
+msgstr "Trimite"
+
+#: core/editor/editor.php:736
+msgid "Update"
+msgstr "Actualizează"
+
+#: core/kits/documents/kit.php:116 core/editor/editor.php:732
+msgid "Published"
+msgstr "Publicat"
+
+#: core/editor/editor.php:705
+msgid "Proceed Anyway"
+msgstr "Continuă oricum"
+
+#: core/editor/editor.php:704
+msgid "Your browser isn't compatible with all of Elementor's editing features. We recommend you switch to another browser like Chrome or Firefox."
+msgstr "Navigatorul tău nu este compatibil cu toate funcționalitățile de editare ale modulului Elementor. Îți recomandăm să comuți la un alt navigator, de exemplu Chrome sau Firefox."
+
+#: core/editor/editor.php:703
+msgid "Your browser isn't compatible"
+msgstr "Navigatorul tău nu este compatibil"
+
+#: core/editor/editor.php:695 core/common/modules/finder/template.php:19
+msgid "No Results Found"
+msgstr "Niciun rezultat găsit"
+
+#: core/editor/editor.php:694
+msgid "Please make sure your search is spelled correctly or try a different words."
+msgstr "Te rog asigură-te că ai scris corect pentru căutare sau încearcă cu alte cuvinte."
+
+#: core/editor/editor.php:693
+msgid "No Favorite Templates"
+msgstr "Niciun șablon preferat"
+
+#: core/editor/editor.php:692
+msgid "You can mark any pre-designed template as a favorite."
+msgstr "Poți marca orice șablon pre-proiectat ca preferat."
+
+#: core/editor/editor.php:680
+msgid "Import Document Settings"
+msgstr "Importă setări document"
+
+#: core/editor/editor.php:669
+msgid "Show Panel"
+msgstr "Arată panoul"
+
+#: includes/editor-templates/templates.php:239 assets/js/app-packages.js:8641
+msgid "Select File"
+msgstr "Selectează fișierul"
+
+#: includes/editor-templates/templates.php:238
+msgid "or"
+msgstr "sau"
+
+#: includes/editor-templates/templates.php:237
+msgid "Drag & drop your .JSON or .zip template file"
+msgstr "Trage și plasează fișierul șablonului .JSON sau .zip"
+
+#: includes/editor-templates/templates.php:236
+msgid "Import Template to Your Library"
+msgstr "Importă șablon în biblioteca ta"
+
+#: includes/widgets/button.php:141 includes/widgets/button.php:142
+#: includes/editor-templates/templates.php:227
+#: includes/editor-templates/templates.php:243
+#: includes/editor-templates/templates.php:256
+msgid "Click here"
+msgstr "Dă clic aici"
+
+#: includes/editor-templates/templates.php:226
+#: includes/editor-templates/templates.php:242
+#: includes/editor-templates/templates.php:255
+msgid "Want to learn more about the Elementor library?"
+msgstr "Vrei să afli mai multe despre biblioteca Elementor?"
+
+#: includes/editor-templates/templates.php:155
+msgid "Favorite"
+msgstr "Favorit"
+
+#: includes/editor-templates/templates.php:121
+msgid "Creation Date"
+msgstr "Data creării"
+
+#: includes/editor-templates/templates.php:117
+msgid "Created By"
+msgstr "Creat de"
+
+#: includes/editor-templates/templates.php:101
+msgid "Search"
+msgstr "Caută"
+
+#: includes/editor-templates/templates.php:92
+msgid "My Favorites"
+msgstr "Favoritele mele"
+
+#: includes/editor-templates/templates.php:70
+msgid "Popular"
+msgstr "Populare"
+
+#: includes/editor-templates/templates.php:68
+msgid "Trend"
+msgstr "În trend"
+
+#: includes/editor-templates/templates.php:66
+msgid "New"
+msgstr "Nou"
+
+#: includes/editor-templates/templates.php:10
+#: includes/editor-templates/templates.php:11
+msgid "Import Template"
+msgstr "Importă șablon"
+
+#: includes/controls/icons.php:82 includes/controls/media.php:146
+#: includes/controls/media.php:180 includes/editor-templates/repeater.php:27
+#: core/kits/views/panel.php:32
+msgid "Remove"
+msgstr "Înlătură"
+
+#: includes/editor-templates/repeater.php:21
+#: includes/editor-templates/hotkeys.php:67 core/editor/editor.php:752
+msgid "Duplicate"
+msgstr "Fă duplicat"
+
+#: includes/editor-templates/repeater.php:14
+msgid "Drag & Drop"
+msgstr "Trage și plasează"
+
+#: includes/editor-templates/panel.php:152
+#: includes/editor-templates/panel.php:153 core/editor/editor.php:670
+msgid "Hide Panel"
+msgstr "Ascunde panoul"
+
+#: includes/editor-templates/panel.php:142 core/editor/editor.php:759
+msgid "Save as Template"
+msgstr "Salvează ca șablon"
+
+#: includes/editor-templates/panel.php:138
+msgid "Save Draft"
+msgstr "Salvează ciorna"
+
+#: includes/editor-templates/panel.php:123
+#: includes/editor-templates/panel.php:125
+msgid "Save Options"
+msgstr "Salvează opțiunile"
+
+#: includes/editor-templates/panel.php:118 core/editor/editor.php:733
+msgid "Publish"
+msgstr "Publică"
+
+#: includes/editor-templates/panel.php:106
+#: includes/editor-templates/panel.php:109
+msgid "Preview Changes"
+msgstr "Previzualizează modificările"
+
+#: core/editor/editor.php:647
+msgid "Exit To Dashboard"
+msgstr "Ieși la panoul de control"
+
+#: includes/editor-templates/panel-elements.php:33
+msgid "Search Widget:"
+msgstr "Caută piesa:"
+
+#: includes/controls/popover-toggle.php:72
+#: includes/controls/popover-toggle.php:74
+msgid "Back to default"
+msgstr "Înapoi la implicit"
+
+#: includes/controls/groups/typography.php:179
+msgctxt "Typography Control"
+msgid "Line Through"
+msgstr "Bifă"
+
+#: includes/controls/groups/typography.php:178
+msgctxt "Typography Control"
+msgid "Overline"
+msgstr "Linie deasupra"
+
+#: includes/controls/groups/typography.php:177
+msgctxt "Typography Control"
+msgid "Underline"
+msgstr "Subliniere"
+
+#: includes/controls/groups/typography.php:172
+msgctxt "Typography Control"
+msgid "Decoration"
+msgstr "Decorare"
+
+#: includes/controls/dimensions.php:128
+msgid "Unlinked values"
+msgstr "Valori nelegate"
+
+#: core/admin/admin.php:476
+msgid "Blog"
+msgstr "Blog"
+
+#: core/admin/admin.php:457
+msgid "(opens in a new window)"
+msgstr "(deschide într-o fereastră nouă)"
+
+#: core/admin/admin.php:438
+msgid "News & Updates"
+msgstr "Știri și actualizări"
+
+#: core/admin/admin.php:427
+msgctxt "Dashboard Overview Widget Recently Date"
+msgid "M jS"
+msgstr "j M"
+
+#: core/admin/admin.php:420
+msgid "Recently Edited"
+msgstr "Editate recent"
+
+#: core/admin/admin.php:389
+msgid "Create New Page"
+msgstr "Creează pagină nouă"
+
+#: core/admin/admin.php:351
+msgid "Elementor Overview"
+msgstr "Prezentare generală Elementor"
+
+#: core/admin/admin-notices.php:129
+msgid "Update Elementor Now"
+msgstr "Actualizează Elementor acum"
+
+#: core/document-types/page-base.php:164
+msgid "Excerpt"
+msgstr "Rezumat"
+
+#: includes/template-library/sources/local.php:449
+#: includes/template-library/sources/local.php:528
+#: includes/template-library/sources/local.php:668
+#: modules/history/revisions-manager.php:247
+msgid "Access denied."
+msgstr "Acces refuzat."
+
+#: includes/settings/settings.php:436
+msgid "Disable Default Fonts"
+msgstr "Dezactivează fonturi implicite"
+
+#: includes/widgets/common.php:449 includes/widgets/toggle.php:386
+#: includes/widgets/accordion.php:361 includes/widgets/image-carousel.php:535
+#: includes/elements/column.php:197
+msgid "End"
+msgstr "Sfârșit"
+
+#: includes/widgets/common.php:441 includes/widgets/toggle.php:382
+#: includes/widgets/accordion.php:357 includes/widgets/image-carousel.php:527
+#: includes/elements/column.php:195
+msgid "Start"
+msgstr "Început"
+
+#: core/editor/editor.php:673
+msgid "Type Here"
+msgstr "Tastează aici"
+
+#: core/editor/editor.php:796
+msgid "Reload Page"
+msgstr "Reîncarcă pagina"
+
+#: core/editor/editor.php:798
+msgid "Your session has expired. Please reload the page to continue editing."
+msgstr "Sesiunea ta a expirat. Te rog reîncarcă pagina pentru a continua editarea."
+
+#: core/editor/editor.php:797
+msgid "Timeout"
+msgstr "Pauză"
+
+#: core/debug/loading-inspection-manager.php:36
+msgid "We're sorry, but something went wrong. Click on 'Learn more' and follow each of the steps to quickly solve it."
+msgstr "Regretăm, dar ceva nu a mers bine. Dă clic pe „Află mai mult” și urmează toți pașii pentru a rezolva rapid."
+
+#: core/debug/classes/inspection-base.php:25
+#: core/debug/loading-inspection-manager.php:37
+msgid "The preview could not be loaded"
+msgstr "Previzualizarea nu a putut fi încărcată"
+
+#: core/admin/admin-notices.php:115
+msgid "Update Notification"
+msgstr "Notificare de actualizare"
+
+#: core/editor/editor.php:800
+msgid "Unknown Value"
+msgstr "Valoare necunoscută"
+
+#. Author URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Plugin URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: modules/history/views/history-panel-template.php:23
+msgid "Once you start working, you'll be able to redo / undo any action you make in the editor."
+msgstr "După ce începi să lucrezi, veți putea relua/anula toate acțiunile pe care le faci în editor."
+
+#: modules/history/views/history-panel-template.php:22
+msgid "No History Yet"
+msgstr "Niciun istoric deocamdată"
+
+#: modules/history/views/history-panel-template.php:17
+msgid "Switch to Revisions tab for older versions"
+msgstr "Comută la fila Revizii pentru versiuni mai vechi"
+
+#: modules/history/views/revisions-panel-template.php:26
+#: modules/history/views/history-panel-template.php:10
+msgid "Revisions"
+msgstr "Revizii"
+
+#: includes/editor-templates/templates.php:124
+#: includes/editor-templates/hotkeys.php:14
+#: modules/history/views/history-panel-template.php:9
+msgid "Actions"
+msgstr "Acțiuni"
+
+#: modules/history/module.php:59
+msgid "Editing Started"
+msgstr "Editarea a început"
+
+#: modules/history/module.php:57
+msgid "Moved"
+msgstr "Mutat"
+
+#: modules/history/module.php:56
+msgid "Edited"
+msgstr "Editat"
+
+#: modules/history/module.php:54
+msgid "Added"
+msgstr "Adăugat"
+
+#: core/editor/editor.php:795
+msgid "Documentation"
+msgstr "Documentație"
+
+#: includes/editor-templates/panel.php:76
+#: includes/editor-templates/panel.php:78
+#: includes/editor-templates/hotkeys.php:117 modules/history/module.php:52
+msgid "History"
+msgstr "Istoric"
+
+#: includes/widgets/video.php:714
+#: core/kits/documents/tabs/settings-lightbox.php:140
+msgid "UI Hover Color"
+msgstr "Culoare trecere peste UI"
+
+#: includes/widgets/video.php:703
+#: core/kits/documents/tabs/settings-lightbox.php:129
+msgid "UI Color"
+msgstr "Culoare UI"
+
+#: includes/widgets/video.php:664
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr "Umbră"
+
+#: includes/widgets/video.php:296
+msgid "Mute"
+msgstr "Fără sonor"
+
+#: includes/template-library/sources/local.php:951
+msgid "Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library."
+msgstr "Alegeți un fișier JSON ca șablon Elementor sau o arhivă .zip a șabloanelor Elementor și adăugă-le în lista de șabloane disponibile în bibliotecă."
+
+#: includes/controls/groups/text-shadow.php:61
+#: includes/controls/groups/text-shadow.php:85
+msgctxt "Text Shadow Control"
+msgid "Text Shadow"
+msgstr "Umbră text"
+
+#: core/kits/documents/tabs/settings-lightbox.php:36
+msgid "Open all image links in a lightbox popup window. The lightbox will automatically work on any link that leads to an image file."
+msgstr "Deschide toate legăturile la imagini într-o fereastră popup lightbox. Lightbox-ul va funcționa automat cu orice legătură care duce la un fișier imagine."
+
+#: core/kits/documents/tabs/settings-lightbox.php:33
+msgid "Image Lightbox"
+msgstr "Lightbox imagine"
+
+#: includes/settings/tools.php:323
+msgid "Please Note: We do not recommend updating to a beta version on production sites."
+msgstr "Te rog reține: nu recomandăm actualizarea la o versiune beta pe siturile de producție."
+
+#: includes/settings/tools.php:315
+msgid "Beta Tester"
+msgstr "Tester beta"
+
+#: includes/settings/tools.php:306
+msgid "Turn-on Beta Tester, to get notified when a new beta version of Elementor or Elementor Pro is available. The Beta version will not install automatically. You always have the option to ignore it."
+msgstr "Pornește Testerul beta pentru a fi notificat când este disponibilă o versiune beta nouă a Elementor sau Elementor Pro. Versiunea beta nu se va instala automat. Ai mereu opțiunea de a refuza."
+
+#: includes/settings/tools.php:304
+msgid "Become a Beta Tester"
+msgstr "Devii un tester beta"
+
+#: includes/settings/tools.php:298
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "Avertizare: te rog fă o copie de siguranță a bazei tale de date înainte de a face restaurarea."
+
+#: includes/settings/tools.php:290
+msgid "Rollback Version"
+msgstr "Restaurează versiunea"
+
+#. translators: %s: Elementor version
+#: includes/settings/tools.php:281
+msgid "Experiencing an issue with Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr "Ai o problemă cu versiunea Elementor %s? Revino la o versiune anterioară în care problema nu apărea."
+
+#: includes/settings/tools.php:274
+#: core/common/modules/finder/categories/tools.php:58
+msgid "Version Control"
+msgstr "Control versiune"
+
+#: includes/settings/settings.php:500
+msgid "Switch Editor Loader Method"
+msgstr "Comută metoda încărcătorului de editor"
+
+#: includes/settings/settings.php:479
+msgid "Integrations"
+msgstr "Integrări"
+
+#: core/kits/documents/tabs/settings-layout.php:78
+msgid "Sets the default space between widgets (Default: 20)"
+msgstr "Setează spațiul implicit între piese (implicit: 20)"
+
+#: includes/rollback.php:165 includes/settings/tools.php:120
+#: includes/settings/tools.php:277 core/admin/admin.php:712
+msgid "Rollback to Previous Version"
+msgstr "Restaurează la versiunea anterioară"
+
+#: includes/widgets/common.php:179 includes/elements/column.php:825
+#: includes/elements/section.php:1254
+msgid "Animation Delay"
+msgstr "Întârziere animație"
+
+#: includes/widgets/common.php:100 includes/elements/column.php:726
+#: includes/elements/section.php:1175
+msgid "Z-Index"
+msgstr "Z-Index"
+
+#: includes/widgets/common.php:239 includes/widgets/common.php:346
+#: includes/widgets/google-maps.php:214 includes/widgets/image.php:453
+#: includes/widgets/image-box.php:330
+#: includes/controls/groups/background.php:672 includes/elements/column.php:300
+#: includes/elements/column.php:456 includes/elements/column.php:563
+#: includes/elements/section.php:565 includes/elements/section.php:748
+#: includes/elements/section.php:854
+#: core/kits/documents/tabs/theme-style-form-fields.php:127
+#: core/kits/documents/tabs/theme-style-images.php:191
+msgid "Transition Duration"
+msgstr "Durată tranziție"
+
+#: includes/elements/column.php:213
+#: core/kits/documents/tabs/settings-layout.php:66
+msgid "Widgets Space"
+msgstr "Spațiu piese"
+
+#. translators: %s: Element type.
+#: core/editor/editor.php:604
+msgid "Add %s"
+msgstr "Adaugă %s"
+
+#: core/editor/editor.php:682
+msgid "Attention: Importing may override previous settings."
+msgstr "Atenție: importul poate contramanda setările anterioare."
+
+#: core/editor/editor.php:681
+msgid "Do you want to also import the document settings of the template?"
+msgstr "Vrei să imporți și setările documentului pentru șablon?"
+
+#: includes/controls/url.php:113
+msgid "Add nofollow"
+msgstr "Adaugă nofollow"
+
+#: includes/controls/url.php:109
+msgid "Open in new window"
+msgstr "Deschide într-o fereastră nouă"
+
+#: includes/controls/url.php:102
+msgid "Link Options"
+msgstr "Opțiuni legătură"
+
+#: includes/controls/groups/box-shadow.php:72
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "Contur"
+
+#: includes/controls/groups/box-shadow.php:69
+msgctxt "Box Shadow Control"
+msgid "Position"
+msgstr "Poziție"
+
+#. translators: %s: Element name.
+#: core/editor/editor.php:606
+msgid "Edit %s"
+msgstr "Editează %s"
+
+#. translators: %s: Element type.
+#: core/editor/editor.php:608
+msgid "Duplicate %s"
+msgstr "Fă duplicat după %s"
+
+#: core/admin/admin.php:711
+msgid "Are you sure you want to reinstall previous version?"
+msgstr "Sigur vrei să reinstalezi versiunea anterioară?"
+
+#. translators: %s: WordPress version
+#: elementor.php:97
+msgid "Elementor requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Elementor are nevoie de versiunea WordPress %s sau una ulterioară. Deoarece folosești o versiune mai veche, acum modulul NU RULEAZĂ."
+
+#: includes/settings/settings.php:496
+msgid "Use internal CSS that is embedded in the head of the page. For troubleshooting server configuration conflicts and managing development environments."
+msgstr "Folosește CSS-ul intern care este înglobat în capul paginii. Pentru depanarea conflictelor de configurare ale serverului și pentru administrarea mediilor de dezvoltare."
+
+#: includes/settings/settings.php:496
+msgid "Use external CSS files for all generated stylesheets. Choose this setting for better performance (recommended)."
+msgstr "Folosește fișierele CSS externe pentru toate foile de stiluri generate. Alege această setare pentru o performanță mai bună (recomandată)."
+
+#: includes/settings/settings.php:494
+msgid "Internal Embedding"
+msgstr "Înglobare internă"
+
+#: includes/settings/settings.php:493
+msgid "External File"
+msgstr "Fișier extern"
+
+#: includes/settings/settings.php:488
+msgid "CSS Print Method"
+msgstr "Metodă de imprimare CSS"
+
+#: includes/settings/settings.php:507
+msgid "For troubleshooting server configuration conflicts."
+msgstr "Pentru depanarea conflictelor de configurare ale serverului."
+
+#: includes/settings/settings.php:505 includes/settings/settings.php:517
+#: includes/settings/settings.php:528 includes/settings/tools.php:321
+#: modules/safe-mode/module.php:47 core/debug/inspector.php:55
+#: core/editor/editor.php:737
+msgid "Enable"
+msgstr "Activează"
+
+#: includes/settings/settings.php:504 includes/settings/settings.php:516
+#: includes/settings/settings.php:529 includes/settings/tools.php:320
+#: modules/safe-mode/module.php:46 core/debug/inspector.php:54
+msgid "Disable"
+msgstr "Dezactivează"
+
+#: core/base/document.php:1291
+msgid "Status"
+msgstr "Stare"
+
+#: includes/widgets/spacer.php:108 includes/widgets/text-editor.php:322
+msgid "Space"
+msgstr "Spațiu"
+
+#: includes/widgets/text-editor.php:120 includes/widgets/text-editor.php:244
+msgid "Drop Cap"
+msgstr "Letrină coborâtă"
+
+#: core/kits/documents/tabs/settings-layout.php:92
+msgid "Elementor lets you hide the page title. This works for themes that have \"h1.entry-title\" selector. If your theme's selector is different, please enter it above."
+msgstr "Elementor îți permite să ascunzi titlul paginii. Aceasta funcționează pentru temele care au selectorul „h1.entry-title”. Dacă selectorul temei tale este diferit, te rog introdu-l mai sus."
+
+#: core/kits/documents/tabs/settings-layout.php:88
+msgid "Page Title Selector"
+msgstr "Selector titlu pagină"
+
+#: includes/admin-templates/new-template.php:61
+#: includes/settings/controls.php:156
+msgid "Select"
+msgstr "Selectează"
+
+#: includes/editor-templates/hotkeys.php:51 core/editor/editor.php:756
+msgid "Paste Style"
+msgstr "Plasează stilul"
+
+#: modules/history/module.php:53
+#: core/common/modules/finder/categories/edit.php:116
+msgid "Template"
+msgstr "Șablon"
+
+#: core/document-types/page-base.php:87
+msgid "Hide Title"
+msgstr "Ascunde titlul"
+
+#: includes/maintenance-mode.php:270
+msgid "Maintenance Mode ON"
+msgstr "Mod mentenanță PORNIT"
+
+#: includes/maintenance-mode.php:239
+msgid "Choose Template"
+msgstr "Alege șablon"
+
+#: includes/maintenance-mode.php:358
+msgid "Select one or go ahead and <a target=\"_blank\" href=\"%s\">create one</a> now."
+msgstr "Selectează unul sau du-te și <a target=\"_blank\" href=\"%s\">creează unul</a> acum."
+
+#: includes/maintenance-mode.php:357
+msgid "To enable maintenance mode you have to set a template for the maintenance mode page."
+msgstr "Pentru a activa modul mentenanță, trebuie să setezi un șablon pentru pagina mod mentenanță."
+
+#: includes/maintenance-mode.php:279 includes/maintenance-mode.php:356
+msgid "Edit Template"
+msgstr "Editează șablonul"
+
+#: includes/maintenance-mode.php:231
+msgid "Roles"
+msgstr "Roluri"
+
+#: includes/maintenance-mode.php:225
+msgid "Logged In"
+msgstr "Autentificat"
+
+#: includes/maintenance-mode.php:219
+msgid "Who Can Access"
+msgstr "Cine poate accesa"
+
+#: includes/maintenance-mode.php:214
+msgid "Coming Soon returns HTTP 200 code, meaning the site is ready to be indexed."
+msgstr "Modul În curând returnează codul HTTP 200, asta înseamnă că situl este gata să fie indexat."
+
+#: includes/maintenance-mode.php:211
+msgid "Maintenance Mode returns HTTP 503 code, so search engines know to come back a short time later. It is not recommended to use this mode for more than a couple of days."
+msgstr "Modul Mentenanță returnează codul HTTP 503, deci motoarele de căutare știu să se reîntoarcă mai târziu. Nu este recomandat să folosești acest mod mai mult de câteva zile."
+
+#: includes/maintenance-mode.php:208
+msgid "Choose between Coming Soon mode (returning HTTP 200 code) or Maintenance Mode (returning HTTP 503 code)."
+msgstr "Alege între modul În curând (returnează codul HTTP 200) sau modul Mentenanță (returnează codul HTTP 503)."
+
+#: includes/maintenance-mode.php:205
+msgid "Maintenance"
+msgstr "Mentenanță"
+
+#: includes/maintenance-mode.php:204
+msgid "Coming Soon"
+msgstr "În curând"
+
+#: includes/maintenance-mode.php:203 modules/history/module.php:64
+#: core/kits/documents/kit.php:115
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: includes/maintenance-mode.php:199
+msgid "Choose Mode"
+msgstr "Alege modul"
+
+#: includes/maintenance-mode.php:195
+msgid "Set your entire website as MAINTENANCE MODE, meaning the site is offline temporarily for maintenance, or set it as COMING SOON mode, meaning the site is offline until it is ready to be launched."
+msgstr "Setează-ți întregul sit în MODUL MENTENANȚĂ, asta înseamnă că situl este offline temporar pentru întreținere, sau setează-l în modul ÎN CURÂND, asta înseamnă că situl este offline până când este gata de lansare."
+
+#: includes/maintenance-mode.php:190 includes/maintenance-mode.php:194
+#: core/common/modules/finder/categories/tools.php:64
+msgid "Maintenance Mode"
+msgstr "Mod mentenanță"
+
+#: includes/elements/section.php:1029
+msgid "Bring to Front"
+msgstr "Adu în față"
+
+#: includes/widgets/image-gallery.php:142 includes/widgets/video.php:558
+#: includes/widgets/video.php:679 includes/widgets/image.php:219
+#: includes/widgets/image-carousel.php:203
+#: core/kits/documents/tabs/settings-lightbox.php:18 core/kits/manager.php:121
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/widgets/toggle.php:267 includes/widgets/icon-list.php:217
+#: includes/elements/column.php:170 includes/elements/column.php:198
+#: includes/elements/section.php:417
+msgid "Space Between"
+msgstr "Spațiu între"
+
+#: includes/widgets/icon-list.php:209
+msgid "List"
+msgstr "Listă"
+
+#: includes/shapes.php:209
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Carte"
+
+#: includes/shapes.php:205
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Împarte"
+
+#: includes/shapes.php:201
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Săgeată"
+
+#: includes/shapes.php:197
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Model valuri"
+
+#: includes/shapes.php:193
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Perie în valuri"
+
+#: includes/shapes.php:188
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Valuri"
+
+#: includes/shapes.php:183
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Curbă asimetrică"
+
+#: includes/shapes.php:179
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Curbă"
+
+#: includes/shapes.php:176
+msgctxt "Shapes"
+msgid "Fan Opacity"
+msgstr "Opacitate în evantai"
+
+#: includes/shapes.php:172
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "Opacitate înclinată"
+
+#: includes/shapes.php:167
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Înclinare"
+
+#: includes/shapes.php:162
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Triunghi asimetric"
+
+#: includes/shapes.php:158
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Triunghi"
+
+#: includes/shapes.php:153
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Piramide"
+
+#: includes/shapes.php:150
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: includes/shapes.php:144
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Nori"
+
+#: includes/shapes.php:138
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "Picături"
+
+#: includes/shapes.php:134
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Munți"
+
+#: includes/elements/section.php:1016
+msgid "Invert"
+msgstr "Inversează"
+
+#: includes/elements/section.php:1002
+msgid "Flip"
+msgstr "Întoarce"
+
+#: includes/elements/section.php:898
+msgid "Shape Divider"
+msgstr "Separator de forme"
+
+#: includes/widgets/tabs.php:177
+msgid "Navigation Width"
+msgstr "Lățime navigare"
+
+#: includes/widgets/common.php:224 includes/widgets/common.php:311
+#: includes/widgets/button.php:336 includes/widgets/google-maps.php:199
+#: includes/widgets/icon-list.php:412 includes/widgets/icon-list.php:496
+#: includes/widgets/image.php:420 includes/widgets/icon.php:248
+#: includes/widgets/icon-box.php:302 includes/widgets/image-box.php:351
+#: includes/elements/column.php:285 includes/elements/column.php:410
+#: includes/elements/column.php:528 includes/elements/section.php:550
+#: includes/elements/section.php:702 includes/elements/section.php:819
+#: core/kits/documents/tabs/theme-style-typography.php:144
+#: core/kits/documents/tabs/theme-style-images.php:122
+#: core/kits/documents/tabs/theme-style-buttons.php:145
+msgid "Hover"
+msgstr "Trece peste"
+
+#: includes/widgets/common.php:119 includes/widgets/button.php:260
+#: includes/elements/column.php:744 includes/elements/section.php:1193
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Adaugă-ți ID-ul personalizat fără tasta diez. De exemplu: my-id"
+
+#: includes/widgets/common.php:113 includes/elements/column.php:738
+#: includes/elements/section.php:1187
+msgid "CSS ID"
+msgstr "ID CSS"
+
+#: includes/controls/groups/background.php:199
+msgctxt "Background Control"
+msgid "Angle"
+msgstr "Unghi"
+
+#: includes/controls/groups/background.php:188
+msgctxt "Background Control"
+msgid "Radial"
+msgstr "Radial"
+
+#: includes/controls/groups/background.php:187
+msgctxt "Background Control"
+msgid "Linear"
+msgstr "Liniar"
+
+#: includes/controls/groups/background.php:184
+msgctxt "Background Control"
+msgid "Type"
+msgstr "Tip"
+
+#: includes/controls/groups/background.php:158
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "A doua culoare"
+
+#: includes/controls/groups/background.php:143
+#: includes/controls/groups/background.php:169
+msgctxt "Background Control"
+msgid "Location"
+msgstr "Locație"
+
+#: includes/controls/groups/background.php:96
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr "Gradient"
+
+#: includes/settings/settings.php:440
+msgid "Checking this box will disable Elementor's Default Fonts, and make Elementor inherit the fonts from your theme."
+msgstr "Dacă bifezi această casetă vei dezactiva fonturile implicite Elementor și Elementor va moșteni fonturile din tema ta."
+
+#: includes/settings/settings.php:432
+msgid "Checking this box will disable Elementor's Default Colors, and make Elementor inherit the colors from your theme."
+msgstr "Dacă bifezi această casetă vei dezactiva culorile implicite Elementor și Elementor va moșteni culorile din tema ta."
+
+#: core/admin/admin.php:301
+msgid "Video Tutorials"
+msgstr "Tutoriale video"
+
+#: core/admin/admin.php:301
+msgid "View Elementor Video Tutorials"
+msgstr "Vizualizează tutorialele video de la Elementor"
+
+#: core/admin/admin.php:300
+msgid "Docs & FAQs"
+msgstr "Documentație și întrebări frecvente"
+
+#: core/admin/admin.php:300
+msgid "View Elementor Documentation"
+msgstr "Vezi documentația Elementor"
+
+#: includes/utils.php:114
+msgid "The `from` and `to` URL's must be different"
+msgstr "URL-urile „de la” și „la” trebuie să fie diferite"
+
+#: includes/utils.php:119
+msgid "The `from` and `to` URL's must be valid URL's"
+msgstr "URL-urile „de la” și „la” trebuie să fie URL-uri valide"
+
+#: includes/settings/tools.php:266
+msgid "Enter your old and new URLs for your WordPress installation, to update all Elementor data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "Introdu URL vechi și pe cel nou pentru instalarea ta WordPress pentru a actualiza toate datele Elementor (relevante pentru transferurile de domenii sau pentru trecerea la „HTTPS”)."
+
+#: includes/settings/tools.php:262
+msgid "Update Site Address (URL)"
+msgstr "Actualizează adresa sitului (URL-ul)"
+
+#. translators: %s: Codex URL
+#: includes/settings/tools.php:252
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr "<strong>Important:</strong> Recomandăm cu prisosință să <a target=\"_blank\" href=\"%s\">faci o copie de siguranță a bazei de date</a> înainte de a folosi Înlocuiește URL-ul."
+
+#: includes/settings/tools.php:246 includes/settings/tools.php:257
+#: includes/settings/tools.php:265
+#: core/common/modules/finder/categories/tools.php:52
+msgid "Replace URL"
+msgstr "Înlocuiește URL-ul"
+
+#. translators: 1: Minimum recommended_memory, 2: Codex URL
+#: modules/system-info/reporters/wordpress.php:89
+msgctxt "System Info"
+msgid "We recommend setting memory to at least %1$s. For more information, read about <a href=\"%2$s\">how to Increase memory allocated to PHP</a>."
+msgstr "Recomandăm să setezi memoria la cel puțin %1$s. Pentru mai multe informații, citește <a href=\"%2$s\">cum să crești memoria alocată pentru PHP</a>."
+
+#. translators: 1: Human readable time difference, 2: Date
+#: modules/history/revisions-manager.php:170
+msgid "%1$s ago (%2$s)"
+msgstr "Acum %1$s (%2$s)"
+
+#: modules/history/revisions-manager.php:145
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr "j M @ G:i"
+
+#: core/kits/manager.php:141
+msgid "Back to Editor"
+msgstr "Înapoi la Editor"
+
+#: core/editor/editor.php:794
+msgid "Autosave"
+msgstr "Salvare automată"
+
+#: modules/history/revisions-manager.php:356
+msgid "Revision"
+msgstr "Revizie"
+
+#. translators: %s: Codex URL
+#: modules/history/revisions-manager.php:361
+msgid "Learn more about <a target=\"_blank\" href=\"%s\">WordPress revisions</a>"
+msgstr "Află mai multe despre <a target=\"_blank\" href=\"%s\">reviziile WordPress</a>"
+
+#: modules/history/revisions-manager.php:358
+msgid "It looks like the post revision feature is unavailable in your website."
+msgstr "Se pare că funcționalitatea revizie articol este indisponibilă pe situl tău web."
+
+#: modules/history/revisions-manager.php:351
+msgid "Start designing your page and you'll be able to see the entire revision history here."
+msgstr "Începe să-ți proiectezi pagina și vei putea vedea aici întregul istoric al reviziilor."
+
+#: modules/history/revisions-manager.php:350
+msgid "Revision history lets you save your previous versions of your work, and restore them any time."
+msgstr "Istoricul reviziilor îți permite să salvezi versiunile anterioare ale articolelor și să le restaurezi oricând."
+
+#: modules/history/views/revisions-panel-template.php:50
+msgid "By"
+msgstr "De"
+
+#: modules/history/views/revisions-panel-template.php:34
+msgid "No Revisions Saved Yet"
+msgstr "Nicio revizie salvată până acum"
+
+#: includes/widgets/counter.php:170
+msgid "Thousand Separator"
+msgstr "Separator pentru mii"
+
+#: includes/controls/groups/background.php:269
+#: includes/controls/groups/background.php:428
+#: includes/controls/groups/background.php:459
+#: includes/controls/groups/background.php:480
+msgctxt "Background Control"
+msgid "Default"
+msgstr "Implicit"
+
+#: includes/managers/controls.php:896
+msgid "Custom CSS lets you add CSS code to any widget, and see it render live right in the editor."
+msgstr "CSS-ul personalizat îți permite să adaugi un cod CSS în orice piesă și să-l vezi redat live în editor."
+
+#: includes/managers/controls.php:908
+msgid "Meet Our Custom CSS"
+msgstr "Fă cunoștință cu CSS nostru personalizat"
+
+#: includes/managers/controls.php:890
+#: core/kits/documents/tabs/settings-custom-css.php:17
+#: core/kits/manager.php:138
+msgid "Custom CSS"
+msgstr "CSS personalizat"
+
+#: includes/editor-templates/panel-elements.php:56
+msgid "With this feature, you can save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "Cu această funcționalitate, poți salva o piesă ca globală, apoi s-o adaugi în mai multe zone. Toate zonele vor putea fi editate dintr-un singur loc."
+
+#: includes/editor-templates/panel-elements.php:55
+msgid "Meet Our Global Widget"
+msgstr "Fă cunoștință cu piesa noastră globală"
+
+#: includes/settings/settings.php:155 includes/settings/settings.php:292
+#: includes/settings/settings.php:313 includes/settings/settings.php:334
+#: includes/managers/controls.php:930
+#: includes/editor-templates/templates.php:204
+#: includes/editor-templates/panel-elements.php:23
+#: includes/editor-templates/panel-elements.php:57 core/editor/editor.php:784
+#: core/editor/notice-bar.php:24 core/admin/admin.php:275
+#: core/admin/admin.php:487 core/role-manager/role-manager.php:168
+#: assets/js/app-packages.js:9959 assets/js/app-packages.js:10257
+#: assets/js/app-packages.js:10292
+msgid "Go Pro"
+msgstr "Treci la Pro"
+
+#: includes/editor-templates/panel-elements.php:22
+msgid "Get more with Elementor Pro"
+msgstr "Ia mai multe cu Elementor Pro"
+
+#: includes/editor-templates/panel-elements.php:11
+msgid "Global"
+msgstr "Global"
+
+#: includes/widgets/video.php:561 includes/widgets/text-editor.php:122
+#: includes/widgets/icon-list.php:263
+msgid "Off"
+msgstr "Oprit"
+
+#: includes/widgets/video.php:562 includes/widgets/text-editor.php:123
+#: includes/widgets/icon-list.php:264
+msgid "On"
+msgstr "Pornit"
+
+#: includes/widgets/button.php:96
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: includes/widgets/button.php:92
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: includes/settings/tools.php:230
+msgid "Styles set in Elementor are saved in CSS files in the uploads folder. Recreate those files, according to the most recent settings."
+msgstr "Stilurile setate în Elementor sunt salvate în fișiere CSS în dosarul de încărcări. Re creează aceste fișiere, conform celor mai recente setări."
+
+#: includes/settings/tools.php:229
+msgid "Regenerate Files"
+msgstr "Regenerează fișiere"
+
+#: includes/settings/tools.php:226
+msgid "Regenerate CSS"
+msgstr "Regenerează CSS"
+
+#: includes/settings/settings.php:446
+msgid "Improve Elementor"
+msgstr "Îmbunătățește Elementor"
+
+#: includes/frontend.php:1031
+msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
+msgstr "Date invalide: ID-ul șablonului nu poate fi identic cu cel al șablonului editat acum. Te rog alege altul."
+
+#: includes/base/widget-base.php:256 includes/base/widget-base.php:265
+msgid "Skin"
+msgstr "Aspect"
+
+#: core/editor/editor.php:654
+msgid "Descending order"
+msgstr "Ordine descrescătoare"
+
+#: core/editor/editor.php:653
+msgid "Ascending order"
+msgstr "Ordine crescătoare"
+
+#: core/editor/editor.php:658
+msgid "Attention: We are going to DELETE ALL CONTENT from this page. Are you sure you want to do that?"
+msgstr "Atenție: vom ȘTERGE TOT CONȚINUTUL din această pagină. Sigur vrei să faci asta?"
+
+#: core/editor/editor.php:657 core/editor/editor.php:762
+msgid "Delete All Content"
+msgstr "Șterge tot conținutul"
+
+#: core/editor/editor.php:613
+msgid "Color Picker"
+msgstr "Selector de culoare"
+
+#: includes/editor-templates/panel.php:191
+msgid "%s are disabled"
+msgstr "%s sunt dezactivate"
+
+#: includes/editor-templates/panel.php:172
+msgid "Update changes to page"
+msgstr "Actualizează modificări pe pagină"
+
+#: core/admin/admin-notices.php:223
+msgid "No thanks"
+msgstr "Nu, mulțumesc"
+
+#: core/kits/documents/tabs/settings-layout.php:107
+msgid "Enter parent element selector to which stretched sections will fit to (e.g. #primary / .wrapper / main etc). Leave blank to fit to page width."
+msgstr "Introdu selectorul elementului părinte la care se vor potrivi secțiunile întinse (exemplu: #primary / .wrapper / main etc). Lasă gol pentru a se potrivi cu lățimea paginii."
+
+#: core/kits/documents/tabs/settings-layout.php:104
+msgid "Stretched Section Fit To"
+msgstr "Secțiune întinsă potrivită la"
+
+#: core/kits/documents/tabs/settings-layout.php:56
+msgid "Sets the default width of the content area (Default: 1140)"
+msgstr "Setează lățimea implicită a zonei de conținut (implicit: 1140)"
+
+#: includes/elements/section.php:459
+msgid "Stretch the section to the full width of the page using JS."
+msgstr "Întinde secțiunea la lățimea completă a paginii folosind JS."
+
+#: includes/elements/section.php:453
+msgid "Stretch Section"
+msgstr "Întinde secțiunea"
+
+#: includes/settings/settings.php:454 includes/elements/section.php:459
+#: core/admin/admin-notices.php:221
+msgid "Learn more."
+msgstr "Află mai mult."
+
+#: includes/elements/section.php:1281 includes/elements/section.php:1292
+msgid "Reverse Columns"
+msgstr "Inversează coloanele"
+
+#: includes/editor-templates/panel.php:100 includes/elements/section.php:1292
+#: core/kits/documents/tabs/settings-layout.php:145
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/editor-templates/panel.php:90
+msgid "Default Preview"
+msgstr "Previzualizare implicită"
+
+#: includes/controls/dimensions.php:121 includes/controls/dimensions.php:124
+msgid "Link values together"
+msgstr "Leagă valori împreună"
+
+#: includes/widgets/shortcode.php:42 includes/widgets/shortcode.php:99
+msgid "Shortcode"
+msgstr "Scurtcod"
+
+#: includes/template-library/sources/remote.php:46
+msgid "Remote"
+msgstr "La distanță"
+
+#: includes/template-library/sources/local.php:958
+msgid "Import Now"
+msgstr "Importă acum"
+
+#: includes/template-library/sources/local.php:949
+msgid "Import Templates"
+msgstr "Importă șabloane"
+
+#: includes/template-library/sources/local.php:921
+msgid "Export Template"
+msgstr "Exportă șablonul"
+
+#: includes/template-library/sources/local.php:453
+msgid "(no title)"
+msgstr "(fără titlu)"
+
+#: includes/template-library/sources/local.php:267
+msgctxt "Template Library"
+msgid "Type"
+msgstr "Tip"
+
+#: includes/template-library/sources/local.php:227
+msgctxt "Template Library"
+msgid "No Templates found in Trash"
+msgstr "Niciun șablon găsit la gunoi"
+
+#: includes/template-library/sources/local.php:226
+msgctxt "Template Library"
+msgid "No Templates found"
+msgstr "Niciun șablon găsit"
+
+#: includes/template-library/sources/local.php:225
+msgctxt "Template Library"
+msgid "Search Template"
+msgstr "Caută șablon"
+
+#: includes/template-library/sources/local.php:224
+msgctxt "Template Library"
+msgid "View Template"
+msgstr "Vezi șablonul"
+
+#: includes/template-library/sources/local.php:223
+msgctxt "Template Library"
+msgid "All Templates"
+msgstr "Toate șabloanele"
+
+#: includes/template-library/sources/local.php:222
+msgctxt "Template Library"
+msgid "New Template"
+msgstr "Șablon nou"
+
+#: includes/template-library/sources/local.php:221
+msgctxt "Template Library"
+msgid "Edit Template"
+msgstr "Editează șablonul"
+
+#: includes/template-library/sources/local.php:220
+msgctxt "Template Library"
+msgid "Add New Template"
+msgstr "Adaugă șablon nou"
+
+#: includes/template-library/sources/local.php:219
+msgctxt "Template Library"
+msgid "Add New"
+msgstr "Adaugă nou"
+
+#: includes/template-library/sources/local.php:218
+msgctxt "Template Library"
+msgid "Template"
+msgstr "Șablon"
+
+#: includes/template-library/sources/local.php:199
+msgid "Local"
+msgstr "Locală"
+
+#: includes/settings/tools.php:238
+msgid "Elementor Library automatically updates on a daily basis. You can also manually update it by clicking on the sync button."
+msgstr "Biblioteca Elementor se actualizează automat zilnic. De asemenea, o poți actualiza manual dând clic pe butonul de sincronizare."
+
+#: includes/settings/tools.php:234 includes/settings/tools.php:237
+#: includes/editor-templates/templates.php:14
+#: includes/editor-templates/templates.php:15
+msgid "Sync Library"
+msgstr "Sincronizează biblioteca"
+
+#: includes/settings/tools.php:36 includes/settings/tools.php:37
+#: includes/settings/tools.php:344
+#: core/common/modules/finder/categories/tools.php:28
+#: core/common/modules/finder/categories/tools.php:46
+msgid "Tools"
+msgstr "Unelte"
+
+#: core/editor/editor.php:679
+msgid "Are you sure you want to delete this template?"
+msgstr "Sigur vrei să ștergi acest șablon?"
+
+#: core/editor/editor.php:678
+msgid "Delete Template"
+msgstr "Șterge șablonul"
+
+#: modules/library/documents/page.php:66 core/editor/editor.php:685
+#: core/document-types/page.php:30
+msgid "Page"
+msgstr "Pagină"
+
+#. translators: %s: Template type.
+#: core/editor/editor.php:687
+msgid "Save Your %s to Library"
+msgstr "Salvează-ți %s în bibliotecă"
+
+#: core/editor/editor.php:696
+msgid "The following error(s) occurred while processing the request:"
+msgstr "A apărut următoarea eroare în timpul procesării cererii:"
+
+#: includes/utils.php:132 core/editor/editor.php:676
+msgid "An error occurred"
+msgstr "A apărut o eroare"
+
+#: core/editor/editor.php:690
+msgid "This is where your templates should be. Design it. Save it. Reuse it."
+msgstr "Aici ar trebui să fie șabloanele tale. Proiectează-le. Salvează-le. Refolosește-le."
+
+#: core/editor/editor.php:691
+msgid "Haven’t Saved Templates Yet?"
+msgstr "Nu s-au salvat încă șabloanele?"
+
+#: includes/editor-templates/templates.php:217
+msgid "Enter Template Name"
+msgstr "Introdu nume șablon"
+
+#: core/editor/editor.php:688
+msgid "Your designs will be available for export and reuse on any page or website"
+msgstr "Designul tău va fi disponibil pentru export și reutilizat pe orice pagină sau sit web."
+
+#: includes/template-library/sources/local.php:1136
+#: includes/editor-templates/templates.php:187
+msgid "Export"
+msgstr "Exportă"
+
+#: includes/editor-templates/templates.php:132
+msgid "Stay tuned! More awesome templates coming real soon."
+msgstr "Rămâi aproape! Mai multe șabloane minunate vin în curând."
+
+#: includes/editor-templates/templates.php:37
+msgid "Back to Library"
+msgstr "Înapoi la bibliotecă"
+
+#: includes/editor-templates/templates.php:173
+#: includes/editor-templates/templates.php:197
+msgid "Insert"
+msgstr "Inserează"
+
+#: core/editor/editor.php:700
+msgid "My Templates"
+msgstr "Șabloanele mele"
+
+#: core/editor/editor.php:683 core/common/modules/connect/apps/library.php:12
+msgid "Library"
+msgstr "Bibliotecă"
+
+#: includes/frontend.php:1173 includes/editor-templates/global.php:18
+#: includes/editor-templates/library-layout.php:15
+#: includes/editor-templates/library-layout.php:16 core/kits/manager.php:118
+#: assets/js/app-packages.js:7583 assets/js/app-packages.js:7907
+#: assets/js/app-packages.js:8946 assets/js/app.js:6847 assets/js/app.js:7171
+msgid "Close"
+msgstr "Închide"
+
+#: includes/template-library/sources/local.php:362
+#: includes/template-library/sources/local.php:1654
+msgid "Saved Templates"
+msgstr "Șabloane salvate"
+
+#: includes/editor-templates/hotkeys.php:134
+msgid "Template Library"
+msgstr "Bibliotecă cu șabloane"
+
+#: includes/editor-templates/global.php:30
+msgid "Select your Structure"
+msgstr "Selectează-ți structura"
+
+#: includes/editor-templates/global.php:24
+msgid "Add Template"
+msgstr "Adaugă șablon"
+
+#. translators: %s: Codex URL
+#: modules/system-info/reporters/theme.php:190
+msgctxt "System Info"
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr "Dacă vrei să modifici codul sursă al temei tale, îți recomandăm să folosești o <a href=\"%s\">temă copil</a>."
+
+#: includes/settings/settings.php:471 includes/settings/settings.php:532
+#: includes/controls/url.php:76
+#: modules/safe-mode/mu-plugin/elementor-safe-mode.php:103
+#: modules/safe-mode/module.php:361 modules/safe-mode/module.php:370
+#: core/editor/editor.php:666 core/editor/editor.php:708
+#: core/admin/admin-notices.php:309 core/admin/admin-notices.php:353
+#: core/admin/admin-notices.php:397 core/admin/admin-notices.php:441
+#: core/admin/admin-notices.php:486 assets/js/app-packages.js:7842
+#: assets/js/app-packages.js:9164 assets/js/app-packages.js:9302
+#: assets/js/app.js:7106
+msgid "Learn More"
+msgstr "Află mai multe"
+
+#: core/kits/documents/tabs/global-typography.php:28
+#: core/kits/documents/tabs/global-typography.php:35 core/kits/manager.php:128
+#: core/editor/editor.php:625
+msgid "Global Fonts"
+msgstr "Fonturi globale"
+
+#: core/kits/manager.php:127
+msgid "Global Color"
+msgstr "Culoare globală"
+
+#: includes/widgets/button.php:380 includes/widgets/image.php:470
+#: includes/widgets/social-icons.php:538 includes/widgets/icon.php:286
+#: includes/widgets/icon-box.php:338 includes/widgets/image-box.php:288
+msgid "Hover Animation"
+msgstr "Animație la trecere peste"
+
+#: includes/controls/groups/background.php:483
+msgctxt "Background Control"
+msgid "Contain"
+msgstr "Conține"
+
+#: includes/widgets/common.php:167 includes/elements/column.php:813
+#: includes/elements/section.php:1242
+msgid "Fast"
+msgstr "Rapid"
+
+#: includes/widgets/common.php:165 includes/elements/column.php:811
+#: includes/elements/section.php:1240
+msgid "Slow"
+msgstr "Încet"
+
+#: core/admin/feedback.php:78
+msgid "Submit & Deactivate"
+msgstr "Trimite și dezactivează"
+
+#: includes/settings/settings.php:428
+msgid "Disable Default Colors"
+msgstr "Dezactivează culori implicite"
+
+#: core/schemes/typography.php:78
+msgid "Default Fonts"
+msgstr "Fonturi implicite"
+
+#: core/schemes/color.php:78
+msgid "Color Palettes"
+msgstr "Palete de culori"
+
+#: includes/widgets/common.php:152 includes/widgets/video.php:764
+#: includes/elements/column.php:798 includes/elements/section.php:1227
+msgid "Entrance Animation"
+msgstr "Animație de intrare"
+
+#: includes/editor-templates/panel.php:192
+msgid "You can enable it from the <a href=\"%s\" target=\"_blank\">Elementor settings page</a>."
+msgstr "Poți s-o activezi din <a href=\"%s\" target=\"_blank\">pagina setări Elementor</a>."
+
+#: includes/controls/groups/box-shadow.php:73
+msgctxt "Box Shadow Control"
+msgid "Inset"
+msgstr "Intercalat"
+
+#: includes/controls/groups/box-shadow.php:61
+#: includes/controls/groups/box-shadow.php:96
+msgctxt "Box Shadow Control"
+msgid "Box Shadow"
+msgstr "Umbră casetă"
+
+#: includes/widgets/tabs.php:157 includes/controls/box-shadow.php:73
+#: includes/controls/text-shadow.php:76
+msgid "Vertical"
+msgstr "Vertical"
+
+#: includes/widgets/tabs.php:156 includes/controls/box-shadow.php:68
+#: includes/controls/text-shadow.php:71
+msgid "Horizontal"
+msgstr "Orizontal"
+
+#: includes/controls/box-shadow.php:83
+msgid "Spread"
+msgstr "Extindere"
+
+#: includes/controls/box-shadow.php:78 includes/controls/text-shadow.php:66
+msgid "Blur"
+msgstr "Estompare"
+
+#: core/admin/feedback.php:79
+msgid "Skip & Deactivate"
+msgstr "Sari și dezactivează"
+
+#: includes/widgets/testimonial.php:171
+msgid "Aside"
+msgstr "Notă"
+
+#: includes/widgets/testimonial.php:45 includes/widgets/testimonial.php:88
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: includes/widgets/social-icons.php:189 includes/widgets/social-icons.php:346
+msgid "Official Color"
+msgstr "Culoare oficială"
+
+#: includes/widgets/social-icons.php:261
+msgid "Rounded"
+msgstr "Rotunjit"
+
+#: includes/widgets/social-icons.php:42 includes/widgets/social-icons.php:85
+#: includes/widgets/social-icons.php:227
+msgid "Social Icons"
+msgstr "Iconuri sociale"
+
+#: includes/widgets/progress.php:101
+msgid "My Skill"
+msgstr "Abilitățile mele"
+
+#: includes/widgets/audio.php:232
+msgid "Username"
+msgstr "Nume utilizator"
+
+#: includes/widgets/audio.php:221
+msgid "Play Counts"
+msgstr "Număr redări"
+
+#: includes/widgets/audio.php:210
+msgid "Comments"
+msgstr "Comentarii"
+
+#: includes/widgets/audio.php:199
+msgid "Share Button"
+msgstr "Buton de partajare"
+
+#: includes/widgets/video.php:452 includes/widgets/audio.php:174
+msgid "Download Button"
+msgstr "Buton de descărcare"
+
+#: includes/widgets/audio.php:163
+msgid "Like Button"
+msgstr "Buton de apreciere"
+
+#: includes/widgets/audio.php:152
+msgid "Buy Button"
+msgstr "Buton de cumpărare"
+
+#: includes/widgets/audio.php:122
+msgid "Visual Player"
+msgstr "Visual Player"
+
+#: includes/widgets/audio.php:53 includes/widgets/audio.php:96
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/elements/column.php:326 includes/elements/section.php:591
+msgid "Background Overlay"
+msgstr "Suprapunere fundal"
+
+#: includes/elements/section.php:288
+msgid "Extended"
+msgstr "Extins"
+
+#: core/admin/feedback.php:135
+msgid "If you have a moment, please share why you are deactivating Elementor:"
+msgstr "Dacă vrei, te rog să ne spui de ce dezactivezi Elementor:"
+
+#: core/admin/feedback.php:127
+msgid "Quick Feedback"
+msgstr "Impresii rapide"
+
+#: core/admin/feedback.php:119
+msgid "Please share the reason"
+msgstr "Te rog spune-ne motivul"
+
+#: core/admin/feedback.php:118
+msgid "Other"
+msgstr "Altele"
+
+#: core/admin/feedback.php:109
+msgid "It's a temporary deactivation"
+msgstr "Este o dezactivare temporară"
+
+#: core/admin/feedback.php:105
+msgid "I couldn't get the plugin to work"
+msgstr "Nu am putut face modulul să funcționeze"
+
+#: core/admin/feedback.php:102
+msgid "Please share which plugin"
+msgstr "Te rog partajează care modul"
+
+#: core/admin/feedback.php:101
+msgid "I found a better plugin"
+msgstr "Am găsit un modul mai bun"
+
+#: core/admin/feedback.php:97
+msgid "I no longer need the plugin"
+msgstr "Nu mai am nevoie de modul"
+
+#: core/base/db-upgrades-manager.php:81 core/admin/admin-notices.php:137
+msgid "Update Now"
+msgstr "Actualizează acum"
+
+#. translators: %s: Elementor version
+#: core/admin/admin-notices.php:124
+msgid "View Elementor version %s details"
+msgstr "Vezi detaliile versiunii Elementor %s"
+
+#. translators: 1: Details URL, 2: Accessibility text, 3: Version number, 4:
+#. Update URL, 5: Accessibility text
+#: core/admin/admin-notices.php:120
+msgid "There is a new version of Elementor Page Builder available. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">update now</a>."
+msgstr "Există o versiune nouă disponibilă pentru Elementor Page Builder. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">Vezi detaliile versiunii %3$s</a> sau <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">actualizează acum</a>."
+
+#: includes/widgets/image.php:195 includes/widgets/image-carousel.php:182
+msgid "Custom URL"
+msgstr "URL personalizat"
+
+#: includes/editor-templates/hotkeys.php:43 core/editor/editor.php:754
+msgid "Paste"
+msgstr "Plasează"
+
+#: includes/widgets/common.php:197 includes/widgets/toggle.php:302
+#: includes/widgets/toggle.php:450 includes/widgets/accordion.php:278
+#: includes/widgets/accordion.php:425 includes/elements/column.php:252
+#: includes/elements/section.php:518
+#: core/kits/documents/tabs/settings-background.php:18
+#: core/kits/manager.php:137
+msgid "Background"
+msgstr "Fundal"
+
+#: includes/elements/section.php:290
+msgid "Wider"
+msgstr "Mai lat"
+
+#: includes/settings/settings.php:407 includes/settings/tools.php:221
+#: includes/managers/elements.php:279 core/role-manager/role-manager.php:57
+#: core/common/modules/finder/categories/general.php:28
+msgid "General"
+msgstr "Generale"
+
+#: includes/widgets/video.php:426
+msgid "Intro Byline"
+msgstr "Introdu autorul"
+
+#: includes/widgets/divider.php:737 includes/widgets/divider.php:877
+#: includes/widgets/star-rating.php:283 includes/widgets/toggle.php:422
+#: includes/widgets/accordion.php:397 includes/widgets/image-gallery.php:191
+#: includes/widgets/image.php:602 includes/widgets/social-icons.php:427
+#: includes/widgets/icon-box.php:350 includes/widgets/icon-box.php:517
+#: includes/widgets/image-box.php:225 includes/widgets/image-box.php:451
+#: includes/widgets/image-carousel.php:551
+msgid "Spacing"
+msgstr "Spațiere"
+
+#: includes/widgets/image-carousel.php:404
+#: includes/widgets/image-carousel.php:466
+msgid "Outside"
+msgstr "În exterior"
+
+#: includes/widgets/image-carousel.php:403
+#: includes/widgets/image-carousel.php:467
+msgid "Inside"
+msgstr "În interior"
+
+#: includes/widgets/image-carousel.php:361
+#: includes/controls/groups/background.php:737
+msgid "Direction"
+msgstr "Direcție"
+
+#: includes/widgets/image-carousel.php:350
+msgid "Animation Speed"
+msgstr "Viteză animație"
+
+#: includes/widgets/audio.php:135 includes/widgets/image-carousel.php:246
+msgid "Additional Options"
+msgstr "Opțiuni suplimentare"
+
+#: includes/widgets/image-carousel.php:164
+msgid "Arrows and Dots"
+msgstr "Săgeți și puncte"
+
+#: includes/widgets/image-carousel.php:147
+msgid "Image Stretch"
+msgstr "Întindere imagine"
+
+#: includes/widgets/image-carousel.php:45
+#: includes/widgets/image-carousel.php:88
+msgid "Image Carousel"
+msgstr "Carusel de imagini"
+
+#: includes/widgets/common.php:161 includes/widgets/counter.php:159
+#: includes/elements/column.php:807 includes/elements/section.php:1236
+msgid "Animation Duration"
+msgstr "Durată animație"
+
+#: includes/widgets/alert.php:194
+msgid "Left Border Width"
+msgstr "Lățime chenar stânga"
+
+#: core/editor/editor.php:710
+msgid "You must call 'the_content' function in the current template, in order for Elementor to work on this page."
+msgstr "Trebuie să apelezi la funcția 'the_content' în șablonul actual, pentru ca Elementor să funcționeze pe această pagină."
+
+#: core/editor/editor.php:709
+msgid "Sorry, the content area was not found in your page."
+msgstr "Regret, zona conținutului nu a fost găsită în pagina ta."
+
+#: includes/controls/groups/image-size.php:278
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr "Poți decupa dimensiunile originale ale imaginii la orice dimensiune personalizată. De asemenea, poți seta o singură valoare pentru înălțime sau lățime pentru a păstra raportul dimensiunilor inițiale."
+
+#: includes/widgets/video.php:440 includes/widgets/audio.php:243
+msgid "Controls Color"
+msgstr "Culoare comenzi"
+
+#: includes/widgets/video.php:412
+msgid "Intro Portrait"
+msgstr "Introdu portretul"
+
+#: includes/widgets/video.php:398
+msgid "Intro Title"
+msgstr "Introdu titlul"
+
+#: includes/widgets/video.php:304
+msgid "Loop"
+msgstr "Buclă"
+
+#: includes/widgets/video.php:268
+msgid "Video Options"
+msgstr "Opțiuni video"
+
+#: includes/widgets/video.php:115
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/video.php:44 includes/widgets/video.php:103
+#: includes/widgets/video.php:576
+msgid "Video"
+msgstr "Video"
+
+#: includes/widgets/image-gallery.php:263
+msgid "Display"
+msgstr "Afișează"
+
+#: includes/controls/image-dimensions.php:81
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "Serverul nu are instalată și/sau activată ImageMagick sau GD! Oricare dintre aceste biblioteci sunt necesare pentru WordPress ca să poată redimensiona imaginile. Înainte de a continua, te rog contactează administratorul serverului pentru a activa măcar una."
+
+#: core/editor/editor.php:718
+msgid "Insert Media"
+msgstr "Inserează media"
+
+#. translators: %s: The number of images.
+#: core/editor/editor.php:716
+msgid "%s Images Selected"
+msgstr "%s imagini selectate"
+
+#: includes/controls/groups/image-size.php:276
+msgctxt "Image Size Control"
+msgid "Image Dimension"
+msgstr "Dimensiune imagine"
+
+#: includes/controls/groups/image-size.php:359
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr "Personalizat"
+
+#: includes/controls/groups/border.php:67
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "Întrerupt"
+
+#: includes/controls/groups/border.php:66
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "Punctat"
+
+#: includes/controls/groups/border.php:65
+msgctxt "Border Control"
+msgid "Double"
+msgstr "Dublu"
+
+#: includes/controls/groups/border.php:64
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "Dens"
+
+#: core/editor/editor.php:717
+msgid "No Images Selected"
+msgstr "Nicio imagine selectată"
+
+#: includes/widgets/image-carousel.php:338
+msgid "Fade"
+msgstr "Estompare"
+
+#: includes/widgets/image-carousel.php:333
+msgid "Effect"
+msgstr "Efect"
+
+#: core/editor/editor.php:714
+msgid "Are you sure you want to reset this gallery?"
+msgstr "Sigur vrei să resetezi această galerie?"
+
+#: includes/controls/groups/image-size.php:356
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "Completă"
+
+#: core/editor/editor.php:713
+msgid "Reset Gallery"
+msgstr "Resetează galeria"
+
+#: includes/widgets/icon-box.php:493 includes/widgets/image-box.php:427
+msgid "Vertical Alignment"
+msgstr "Aliniere pe verticală"
+
+#: includes/widgets/image-carousel.php:319
+#: includes/controls/groups/background.php:633
+msgid "Infinite Loop"
+msgstr "Buclă infinită"
+
+#: includes/widgets/image-carousel.php:166
+#: includes/widgets/image-carousel.php:450
+msgid "Dots"
+msgstr "Puncte"
+
+#: includes/controls/groups/image-size.php:271
+msgctxt "Image Size Control"
+msgid "Image Size"
+msgstr "Dimensiune imagine"
+
+#: includes/controls/groups/typography.php:180
+msgctxt "Typography Control"
+msgid "None"
+msgstr "Niciuna"
+
+#: includes/widgets/toggle.php:208 includes/widgets/accordion.php:207
+#: includes/widgets/icon-box.php:219 includes/widgets/image-box.php:186
+msgid "Title HTML Tag"
+msgstr "Tag HTML titlu"
+
+#: includes/widgets/icon-box.php:146 includes/widgets/image-box.php:123
+msgid "This is the heading"
+msgstr "Aceasta este titlul"
+
+#: includes/widgets/common.php:134 includes/elements/column.php:760
+#: includes/elements/section.php:1209
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "Adaugă-ți clasa personalizată FĂRĂ punct. Exemplu: my-class"
+
+#: core/kits/documents/tabs/global-typography.php:166
+msgid "The list of fonts used if the chosen font is not available."
+msgstr "Lista fonturilor folosite dacă fontul selectat nu este disponibil."
+
+#: includes/managers/elements.php:308
+msgid "Pojo Themes"
+msgstr "Teme Pojo"
+
+#: includes/widgets/wordpress.php:229
+msgid "Form"
+msgstr "Formular"
+
+#: modules/system-info/reporters/server.php:121
+msgctxt "System Info"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "Recomandăm să folosești php 5.4 sau superioară"
+
+#: includes/editor-templates/panel-elements.php:10
+#: modules/history/module.php:66
+msgid "Elements"
+msgstr "Elemente"
+
+#: includes/settings/settings.php:371 includes/managers/controls.php:304
+#: includes/editor-templates/panel.php:68 core/editor/editor.php:643
+#: core/admin/admin.php:271
+#: core/common/modules/finder/categories/settings.php:28
+#: core/dynamic-tags/base-tag.php:171
+msgid "Settings"
+msgstr "Setări"
+
+#: includes/controls/groups/typography.php:167
+msgctxt "Typography Control"
+msgid "Oblique"
+msgstr "Oblic"
+
+#: includes/controls/groups/typography.php:166
+msgctxt "Typography Control"
+msgid "Italic"
+msgstr "Cursiv"
+
+#: includes/controls/groups/typography.php:155
+#: includes/controls/groups/typography.php:165
+msgctxt "Typography Control"
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/controls/groups/typography.php:154
+msgctxt "Typography Control"
+msgid "Capitalize"
+msgstr "Scrie cu majuscule"
+
+#: includes/controls/groups/typography.php:153
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: includes/controls/groups/typography.php:152
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#. Author of the plugin
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#: includes/widgets/video.php:545 includes/widgets/video.php:611
+msgid "Play Icon"
+msgstr "Icon redare"
+
+#: includes/widgets/video.php:487 includes/widgets/video.php:494
+msgid "Image Overlay"
+msgstr "Suprapunere imagine"
+
+#: includes/widgets/video.php:315
+msgid "Player Controls"
+msgstr "Comenzi player"
+
+#: includes/widgets/video.php:382
+msgid "Suggested Videos"
+msgstr "Videouri sugerate"
+
+#: includes/widgets/video.php:584
+msgid "Aspect Ratio"
+msgstr "Raport aspect"
+
+#: includes/widgets/video.php:114
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/widgets/toggle.php:113
+msgid "Toggle Content"
+msgstr "Comută conținut"
+
+#: includes/widgets/toggle.php:100
+msgid "Toggle Title"
+msgstr "Titlu comutare"
+
+#: includes/widgets/toggle.php:130
+msgid "Toggle #2"
+msgstr "Comutarea #2"
+
+#: includes/widgets/toggle.php:126
+msgid "Toggle #1"
+msgstr "Comutarea #1"
+
+#: includes/widgets/toggle.php:121
+msgid "Toggle Items"
+msgstr "Comută elemente"
+
+#: includes/widgets/toggle.php:46 includes/widgets/toggle.php:89
+#: includes/widgets/toggle.php:229
+msgid "Toggle"
+msgstr "Comutare"
+
+#: includes/widgets/text-editor.php:46 includes/widgets/text-editor.php:105
+#: includes/widgets/text-editor.php:180
+msgid "Text Editor"
+msgstr "Editor text"
+
+#: includes/widgets/tabs.php:110 includes/widgets/tabs.php:111
+msgid "Tab Content"
+msgstr "Conținut filă"
+
+#: includes/widgets/tabs.php:100 includes/widgets/tabs.php:101
+msgid "Tab Title"
+msgstr "Titlu filă"
+
+#: includes/widgets/tabs.php:132
+msgid "Tab #2"
+msgstr "Fila #2"
+
+#: includes/widgets/tabs.php:128
+msgid "Tab #1"
+msgstr "Fila #1"
+
+#: includes/widgets/tabs.php:123
+msgid "Tabs Items"
+msgstr "Elemente file"
+
+#: includes/widgets/tabs.php:46 includes/widgets/tabs.php:89
+#: includes/widgets/tabs.php:169
+msgid "Tabs"
+msgstr "File"
+
+#: includes/widgets/image-carousel.php:268
+msgid "Pause on Hover"
+msgstr "Pauză la trecere peste"
+
+#: includes/widgets/image-carousel.php:304
+msgid "Autoplay Speed"
+msgstr "Viteză redare automată"
+
+#: includes/widgets/image-carousel.php:165
+#: includes/widgets/image-carousel.php:387
+msgid "Arrows"
+msgstr "Săgeți"
+
+#: includes/widgets/image-carousel.php:337
+msgid "Slide"
+msgstr "Diapozitiv"
+
+#: includes/widgets/sidebar.php:89 includes/widgets/sidebar.php:107
+msgid "Choose Sidebar"
+msgstr "Alege bară laterală"
+
+#: includes/widgets/sidebar.php:87
+msgid "No sidebars were found"
+msgstr "Nicio bară laterală găsită"
+
+#: includes/widgets/sidebar.php:42 includes/widgets/sidebar.php:102
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: includes/widgets/progress.php:264
+msgid "Title Style"
+msgstr "Stil titlu"
+
+#: includes/widgets/progress.php:156
+msgid "Web Designer"
+msgstr "Designer web"
+
+#: includes/widgets/progress.php:155
+msgid "e.g. Web Designer"
+msgstr "exemplu: designer web"
+
+#: includes/widgets/progress.php:150 includes/widgets/progress.php:231
+msgid "Inner Text"
+msgstr "Text interior"
+
+#: includes/widgets/progress.php:138
+msgid "Display Percentage"
+msgstr "Afișează procent"
+
+#: includes/widgets/progress.php:125
+msgid "Percentage"
+msgstr "Procent"
+
+#: includes/widgets/progress.php:45 includes/widgets/progress.php:88
+#: includes/widgets/progress.php:175
+msgid "Progress Bar"
+msgstr "Bară de progres"
+
+#: includes/widgets/menu-anchor.php:95
+msgid "For Example: About"
+msgstr "De exemplu: despre"
+
+#: includes/widgets/menu-anchor.php:93
+msgid "The ID of Menu Anchor."
+msgstr "ID-ul ancorei de meniu."
+
+#: includes/widgets/menu-anchor.php:96
+msgid "This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr "Acest ID va fi ID-ul CSS pe care va trebui să-l folosești în propria pagină, fără #."
+
+#: includes/widgets/menu-anchor.php:86
+msgid "Anchor"
+msgstr "Ancoră"
+
+#: includes/widgets/menu-anchor.php:43
+msgid "Menu Anchor"
+msgstr "Ancoră meniu"
+
+#: includes/widgets/testimonial.php:167 includes/widgets/image-box.php:161
+msgid "Image Position"
+msgstr "Poziție imagine"
+
+#: includes/widgets/image-gallery.php:208
+#: includes/widgets/image-carousel.php:567
+msgid "Image Spacing"
+msgstr "Spațiere imagine"
+
+#: includes/widgets/testimonial.php:269
+msgid "Image Size"
+msgstr "Dimensiune imagine"
+
+#: includes/widgets/image-box.php:45 includes/widgets/image-box.php:88
+msgid "Image Box"
+msgstr "Casetă imagine"
+
+#: includes/widgets/social-icons.php:484
+msgid "Icon Hover"
+msgstr "Trecere peste icon"
+
+#: includes/widgets/divider.php:916 includes/widgets/toggle.php:237
+#: includes/widgets/accordion.php:236 includes/widgets/text-editor.php:361
+#: includes/widgets/icon.php:358 includes/widgets/tabs.php:200
+#: includes/widgets/icon-box.php:425
+msgid "Border Width"
+msgstr "Lățime chenar"
+
+#: includes/widgets/divider.php:894 includes/widgets/icon.php:336
+#: includes/widgets/icon-box.php:410
+msgid "Rotate"
+msgstr "Rotește"
+
+#: includes/widgets/divider.php:836 includes/widgets/text-editor.php:285
+#: includes/widgets/social-icons.php:212 includes/widgets/social-icons.php:369
+#: includes/widgets/social-icons.php:507 includes/widgets/icon.php:229
+#: includes/widgets/icon.php:269 includes/widgets/icon-box.php:284
+#: includes/widgets/icon-box.php:322
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: includes/widgets/divider.php:819 includes/widgets/text-editor.php:270
+#: includes/widgets/social-icons.php:198 includes/widgets/social-icons.php:355
+#: includes/widgets/social-icons.php:492 includes/widgets/icon.php:212
+#: includes/widgets/icon.php:255 includes/widgets/icon-box.php:268
+#: includes/widgets/icon-box.php:309
+msgid "Primary Color"
+msgstr "Culoare principală"
+
+#: includes/widgets/social-icons.php:262 includes/widgets/icon.php:142
+#: includes/widgets/icon-box.php:127
+msgid "Square"
+msgstr "Pătrat"
+
+#: includes/widgets/social-icons.php:263 includes/widgets/icon.php:141
+#: includes/widgets/icon-box.php:126
+msgid "Circle"
+msgstr "Cerc"
+
+#: includes/widgets/social-icons.php:257 includes/widgets/icon.php:138
+#: includes/widgets/icon-box.php:123
+msgid "Shape"
+msgstr "Formă"
+
+#: includes/widgets/divider.php:772 includes/widgets/text-editor.php:260
+#: includes/widgets/icon.php:128 includes/widgets/icon-box.php:113
+msgid "Framed"
+msgstr "Încadrat"
+
+#: includes/widgets/divider.php:771 includes/widgets/text-editor.php:259
+#: includes/widgets/icon.php:127 includes/widgets/icon-box.php:112
+msgid "Stacked"
+msgstr "Suprapus"
+
+#: includes/widgets/icon-list.php:508
+msgid "Text Indent"
+msgstr "Indentare text"
+
+#: includes/widgets/icon-list.php:123 includes/widgets/icon-list.php:124
+msgid "List Item"
+msgstr "Element de listă"
+
+#: includes/widgets/icon-list.php:178
+msgid "List Item #3"
+msgstr "Element de listă #3"
+
+#: includes/widgets/icon-list.php:171
+msgid "List Item #2"
+msgstr "Element de listă #2"
+
+#: includes/widgets/icon-list.php:164
+msgid "List Item #1"
+msgstr "Element de listă #1"
+
+#: includes/widgets/icon-list.php:45 includes/widgets/icon-list.php:88
+msgid "Icon List"
+msgstr "Listă iconuri"
+
+#: includes/widgets/button.php:154 includes/widgets/icon-list.php:152
+#: includes/widgets/image.php:208 includes/widgets/social-icons.php:178
+#: includes/widgets/icon.php:160 includes/widgets/testimonial.php:160
+#: includes/widgets/icon-box.php:176 includes/widgets/image-box.php:153
+#: includes/widgets/image-carousel.php:192
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: includes/widgets/button.php:228
+msgid "Icon Spacing"
+msgstr "Spațiere icon"
+
+#: includes/widgets/icon-box.php:45 includes/widgets/icon-box.php:88
+msgid "Icon Box"
+msgstr "Casetă icon"
+
+#: includes/widgets/html.php:85
+msgid "HTML Code"
+msgstr "Cod HTML"
+
+#: includes/widgets/html.php:42
+msgid "HTML"
+msgstr "HTML"
+
+#: core/kits/documents/tabs/theme-style-typography.php:179
+msgid "H6"
+msgstr "H6"
+
+#: core/kits/documents/tabs/theme-style-typography.php:178
+msgid "H5"
+msgstr "H5"
+
+#: core/kits/documents/tabs/theme-style-typography.php:177
+msgid "H4"
+msgstr "H4"
+
+#: core/kits/documents/tabs/theme-style-typography.php:176
+msgid "H3"
+msgstr "H3"
+
+#: core/kits/documents/tabs/theme-style-typography.php:175
+msgid "H2"
+msgstr "H2"
+
+#: core/kits/documents/tabs/theme-style-typography.php:174
+msgid "H1"
+msgstr "H1"
+
+#: includes/widgets/heading.php:156 includes/elements/column.php:240
+#: includes/elements/section.php:483
+msgid "HTML Tag"
+msgstr "Tag HTML"
+
+#: includes/widgets/heading.php:116 includes/widgets/alert.php:113
+#: includes/widgets/progress.php:100 includes/widgets/icon-box.php:147
+#: includes/widgets/image-box.php:124
+msgid "Enter your title"
+msgstr "Introdu titlul tău"
+
+#: includes/widgets/heading.php:45
+msgid "Heading"
+msgstr "Subtitlu"
+
+#: includes/widgets/google-maps.php:107
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, Londra, Marea Britanie"
+
+#: includes/widgets/google-maps.php:103 includes/widgets/google-maps.php:174
+msgid "Map"
+msgstr "Hartă"
+
+#: includes/widgets/google-maps.php:44
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/widgets/image-gallery.php:255 includes/widgets/image.php:159
+#: includes/widgets/image.php:516 includes/widgets/image-carousel.php:220
+#: includes/widgets/image-carousel.php:226
+#: includes/widgets/image-carousel.php:613
+#: core/kits/documents/tabs/settings-lightbox.php:89
+#: core/kits/documents/tabs/settings-lightbox.php:106
+msgid "Caption"
+msgstr "Text asociat"
+
+#: includes/widgets/image-gallery.php:183
+#: core/kits/documents/tabs/theme-style-images.php:21
+#: core/kits/documents/tabs/theme-style-images.php:39 core/kits/manager.php:135
+msgid "Images"
+msgstr "Imagini"
+
+#: includes/widgets/image-gallery.php:163
+msgid "Random"
+msgstr "Aleatoriu"
+
+#: includes/widgets/image-gallery.php:132 includes/widgets/image.php:194
+#: includes/widgets/image-carousel.php:181
+msgid "Media File"
+msgstr "Fișier media"
+
+#: includes/widgets/image-gallery.php:133
+msgid "Attachment Page"
+msgstr "Pagină atașament"
+
+#: includes/widgets/image-gallery.php:94 includes/widgets/image-carousel.php:95
+#: includes/controls/gallery.php:88
+msgid "Add Images"
+msgstr "Adaugă imagini"
+
+#: includes/widgets/image-gallery.php:87
+msgid "Image Gallery"
+msgstr "Galerie de imagini"
+
+#: includes/widgets/divider.php:654 includes/widgets/star-rating.php:238
+msgid "Gap"
+msgstr "Decalaj"
+
+#: includes/widgets/divider.php:553 includes/widgets/divider.php:688
+#: includes/widgets/star-rating.php:301 includes/widgets/toggle.php:314
+#: includes/widgets/toggle.php:398 includes/widgets/toggle.php:461
+#: includes/widgets/accordion.php:289 includes/widgets/accordion.php:373
+#: includes/widgets/accordion.php:436 includes/widgets/video.php:624
+#: includes/widgets/icon-list.php:368 includes/widgets/icon-list.php:396
+#: includes/widgets/social-icons.php:185 includes/widgets/social-icons.php:342
+#: includes/widgets/tabs.php:252 includes/widgets/tabs.php:300
+#: includes/widgets/progress.php:183 includes/widgets/progress.php:240
+#: includes/widgets/icon-box.php:534 includes/widgets/icon-box.php:569
+#: includes/widgets/image-box.php:468 includes/widgets/image-box.php:503
+#: includes/widgets/image-carousel.php:436
+#: includes/widgets/image-carousel.php:499 includes/controls/box-shadow.php:104
+#: includes/controls/text-shadow.php:97 includes/elements/section.php:940
+#: core/kits/documents/tabs/theme-style-form-fields.php:66
+#: core/kits/documents/tabs/theme-style-typography.php:121
+#: core/kits/documents/tabs/theme-style-typography.php:151
+#: core/kits/documents/tabs/theme-style-typography.php:197
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/widgets/divider.php:569 includes/widgets/icon-list.php:297
+msgid "Weight"
+msgstr "Greutate"
+
+#: includes/widgets/spacer.php:42 includes/widgets/spacer.php:101
+msgid "Spacer"
+msgstr "Distanțier"
+
+#: includes/widgets/divider.php:46 includes/widgets/divider.php:356
+#: includes/widgets/divider.php:515 includes/widgets/divider.php:542
+#: includes/widgets/icon-list.php:261
+msgid "Divider"
+msgstr "Separator"
+
+#: includes/widgets/counter.php:222
+msgid "Number"
+msgstr "Număr"
+
+#: includes/widgets/counter.php:203 includes/widgets/counter.php:204
+msgid "Cool Number"
+msgstr "Număr mișto"
+
+#: includes/widgets/counter.php:152
+msgid "Plus"
+msgstr "Pozitiv"
+
+#: includes/widgets/counter.php:146
+msgid "Number Suffix"
+msgstr "Sufix număr"
+
+#: includes/widgets/counter.php:133
+msgid "Number Prefix"
+msgstr "Prefix număr"
+
+#: includes/widgets/counter.php:121
+msgid "Ending Number"
+msgstr "Număr de încheiere"
+
+#: includes/widgets/counter.php:109
+msgid "Starting Number"
+msgstr "Număr de început"
+
+#: includes/widgets/counter.php:45 includes/widgets/counter.php:102
+#: core/kits/documents/tabs/settings-lightbox.php:44
+msgid "Counter"
+msgstr "Contor"
+
+#: includes/widgets/video.php:277 includes/widgets/audio.php:144
+#: includes/widgets/image-carousel.php:253
+msgid "Autoplay"
+msgstr "Redare automată"
+
+#: includes/widgets/image-carousel.php:131
+msgid "Slides to Scroll"
+msgstr "Diapozitive de derulat"
+
+#: includes/widgets/image-carousel.php:119
+msgid "Slides to Show"
+msgstr "Diapozitive de arătat"
+
+#: includes/widgets/video.php:504 includes/widgets/image.php:111
+#: includes/widgets/testimonial.php:108 includes/widgets/image-box.php:95
+#: includes/controls/media.php:158
+msgid "Choose Image"
+msgstr "Alege o imagine"
+
+#: includes/widgets/image.php:45 includes/widgets/image.php:104
+#: includes/widgets/image.php:247 includes/widgets/testimonial.php:258
+#: includes/widgets/image-box.php:217 includes/widgets/image-carousel.php:515
+msgid "Image"
+msgstr "Imagine"
+
+#: includes/widgets/common.php:264 includes/elements/column.php:481
+#: includes/elements/section.php:774
+msgid "Border"
+msgstr "Chenar"
+
+#: includes/widgets/button.php:217 core/dynamic-tags/tag.php:102
+msgid "After"
+msgstr "După"
+
+#: includes/widgets/button.php:216 core/dynamic-tags/tag.php:95
+msgid "Before"
+msgstr "Înainte"
+
+#: includes/widgets/button.php:212 includes/widgets/icon-box.php:184
+msgid "Icon Position"
+msgstr "Poziție icon"
+
+#: includes/widgets/divider.php:487 includes/widgets/divider.php:525
+#: includes/widgets/divider.php:756 includes/widgets/star-rating.php:123
+#: includes/widgets/toggle.php:150 includes/widgets/toggle.php:367
+#: includes/widgets/accordion.php:149 includes/widgets/accordion.php:342
+#: includes/widgets/button.php:203 includes/widgets/icon-list.php:134
+#: includes/widgets/icon-list.php:388 includes/widgets/social-icons.php:94
+#: includes/widgets/social-icons.php:334 includes/widgets/icon.php:44
+#: includes/widgets/icon.php:103 includes/widgets/icon.php:110
+#: includes/widgets/icon.php:195 includes/widgets/icon-box.php:95
+#: includes/widgets/icon-box.php:241
+msgid "Icon"
+msgstr "Icon"
+
+#: includes/widgets/divider.php:594 includes/widgets/divider.php:782
+#: includes/widgets/star-rating.php:266 includes/widgets/heading.php:139
+#: includes/widgets/video.php:639 includes/widgets/button.php:192
+#: includes/widgets/text-editor.php:300 includes/widgets/icon-list.php:425
+#: includes/widgets/social-icons.php:384 includes/widgets/icon.php:298
+#: includes/widgets/icon-box.php:373 includes/widgets/image-carousel.php:416
+#: includes/widgets/image-carousel.php:479
+msgid "Size"
+msgstr "Dimensiune"
+
+#: includes/widgets/star-rating.php:186 includes/widgets/image-gallery.php:295
+#: includes/widgets/heading.php:192 includes/widgets/button.php:180
+#: includes/widgets/text-editor.php:204 includes/widgets/image.php:543
+#: includes/widgets/icon-box.php:480 includes/widgets/image-box.php:414
+#: includes/widgets/image-carousel.php:640
+msgid "Justified"
+msgstr "Justificat"
+
+#: includes/widgets/divider.php:448 includes/widgets/star-rating.php:170
+#: includes/widgets/toggle.php:378 includes/widgets/accordion.php:353
+#: includes/widgets/image-gallery.php:279 includes/widgets/heading.php:176
+#: includes/widgets/button.php:164 includes/widgets/text-editor.php:188
+#: includes/widgets/icon-list.php:238 includes/widgets/icon-list.php:445
+#: includes/widgets/image.php:134 includes/widgets/image.php:527
+#: includes/widgets/social-icons.php:297 includes/widgets/icon.php:167
+#: includes/widgets/testimonial.php:185 includes/widgets/icon-box.php:464
+#: includes/widgets/image-box.php:398 includes/widgets/image-carousel.php:624
+msgid "Alignment"
+msgstr "Aliniere"
+
+#: includes/widgets/heading.php:148
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/widgets/heading.php:147
+msgid "XL"
+msgstr "XL"
+
+#: includes/widgets/heading.php:146 includes/widgets/button.php:95
+msgid "Large"
+msgstr "Mare"
+
+#: includes/widgets/heading.php:145 includes/widgets/button.php:94
+msgid "Medium"
+msgstr "Mediu"
+
+#: includes/widgets/heading.php:144 includes/widgets/button.php:93
+msgid "Small"
+msgstr "Mic"
+
+#: includes/widgets/button.php:46 includes/widgets/button.php:112
+#: includes/widgets/button.php:272
+msgid "Button"
+msgstr "Buton"
+
+#: includes/controls/popover-toggle.php:69 core/editor/editor.php:597
+#: core/common/modules/finder/categories/edit.php:30
+msgid "Edit"
+msgstr "Editează"
+
+#: includes/widgets/common.php:746 includes/elements/column.php:886
+#: includes/elements/section.php:1347
+msgid "Hide On Mobile"
+msgstr "Ascunde pe mobil"
+
+#: includes/widgets/common.php:733 includes/elements/column.php:873
+#: includes/elements/section.php:1334
+msgid "Hide On Tablet"
+msgstr "Ascunde pe tabletă"
+
+#: includes/widgets/common.php:720 includes/elements/column.php:860
+#: includes/elements/section.php:1321
+msgid "Hide On Desktop"
+msgstr "Ascunde pe desktop"
+
+#: includes/widgets/common.php:289 includes/widgets/common.php:326
+#: includes/widgets/divider.php:930 includes/widgets/image-gallery.php:241
+#: includes/widgets/button.php:401 includes/widgets/text-editor.php:342
+#: includes/widgets/image.php:491 includes/widgets/social-icons.php:470
+#: includes/widgets/icon.php:372 includes/widgets/testimonial.php:296
+#: includes/widgets/progress.php:219 includes/widgets/icon-box.php:439
+#: includes/widgets/image-box.php:276 includes/widgets/image-carousel.php:599
+#: includes/elements/column.php:506 includes/elements/column.php:543
+#: includes/elements/section.php:798 includes/elements/section.php:834
+#: core/kits/documents/tabs/theme-style-form-fields.php:210
+#: core/kits/documents/tabs/theme-style-images.php:71
+#: core/kits/documents/tabs/theme-style-images.php:142
+#: core/kits/documents/tabs/theme-style-buttons.php:131
+#: core/kits/documents/tabs/theme-style-buttons.php:197
+msgid "Border Radius"
+msgstr "Rotunjire chenar"
+
+#: includes/widgets/alert.php:245 includes/widgets/icon-box.php:560
+#: includes/widgets/image-box.php:494 includes/widgets/image-carousel.php:227
+#: includes/compatibility.php:178
+#: core/kits/documents/tabs/settings-lightbox.php:91
+#: core/kits/documents/tabs/settings-lightbox.php:101
+#: core/kits/documents/tabs/settings-lightbox.php:108
+msgid "Description"
+msgstr "Descriere"
+
+#: includes/widgets/common.php:67 includes/widgets/star-rating.php:158
+#: includes/widgets/star-rating.php:202 includes/widgets/counter.php:197
+#: includes/widgets/counter.php:257 includes/widgets/toggle.php:294
+#: includes/widgets/accordion.php:270 includes/widgets/heading.php:104
+#: includes/widgets/heading.php:111 includes/widgets/heading.php:217
+#: includes/widgets/alert.php:213 includes/widgets/testimonial.php:143
+#: includes/widgets/testimonial.php:348 includes/widgets/tabs.php:243
+#: includes/widgets/progress.php:95 includes/widgets/icon-box.php:508
+#: includes/widgets/image-box.php:442 includes/widgets/image-carousel.php:225
+#: includes/elements/column.php:120 includes/elements/section.php:236
+#: core/kits/documents/tabs/settings-lightbox.php:84
+#: core/kits/documents/tabs/settings-lightbox.php:88
+#: core/kits/documents/tabs/settings-lightbox.php:105
+#: core/base/document.php:1268
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/widgets/video.php:692 includes/widgets/alert.php:172
+#: includes/widgets/button.php:320 includes/widgets/button.php:355
+#: includes/widgets/image.php:572 includes/widgets/tabs.php:231
+#: includes/widgets/progress.php:197
+#: core/kits/documents/tabs/theme-style-form-fields.php:177
+#: core/kits/documents/tabs/theme-style-buttons.php:98
+#: core/kits/documents/tabs/theme-style-buttons.php:164
+#: core/kits/documents/tabs/settings-lightbox.php:118
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: includes/widgets/counter.php:174 includes/widgets/image-gallery.php:268
+#: includes/widgets/video.php:317 includes/widgets/video.php:331
+#: includes/widgets/video.php:357 includes/widgets/video.php:400
+#: includes/widgets/video.php:414 includes/widgets/video.php:428
+#: includes/widgets/video.php:454 includes/widgets/video.php:496
+#: includes/widgets/alert.php:145 includes/widgets/audio.php:154
+#: includes/widgets/audio.php:165 includes/widgets/audio.php:176
+#: includes/widgets/audio.php:187 includes/widgets/audio.php:201
+#: includes/widgets/audio.php:212 includes/widgets/audio.php:223
+#: includes/widgets/audio.php:234 includes/widgets/progress.php:143
+#: includes/elements/section.php:1325 includes/elements/section.php:1338
+#: includes/elements/section.php:1351
+msgid "Hide"
+msgstr "Ascunde"
+
+#: includes/widgets/counter.php:173 includes/widgets/image-gallery.php:267
+#: includes/widgets/video.php:318 includes/widgets/video.php:332
+#: includes/widgets/video.php:358 includes/widgets/video.php:401
+#: includes/widgets/video.php:415 includes/widgets/video.php:429
+#: includes/widgets/video.php:455 includes/widgets/video.php:497
+#: includes/widgets/alert.php:144 includes/widgets/audio.php:155
+#: includes/widgets/audio.php:166 includes/widgets/audio.php:177
+#: includes/widgets/audio.php:188 includes/widgets/audio.php:202
+#: includes/widgets/audio.php:213 includes/widgets/audio.php:224
+#: includes/widgets/audio.php:235 includes/widgets/progress.php:142
+#: includes/elements/section.php:1326 includes/elements/section.php:1339
+#: includes/elements/section.php:1352
+msgid "Show"
+msgstr "Arată"
+
+#: includes/widgets/alert.php:140
+msgid "Dismiss Button"
+msgstr "Buton Respinge"
+
+#: includes/widgets/alert.php:128
+msgid "I am a description. Click the edit button to change this text."
+msgstr "Sunt o descriere. Dă clic pe butonul editează pentru a modifica acest text."
+
+#: includes/widgets/toggle.php:98 includes/widgets/accordion.php:97
+#: includes/widgets/alert.php:111 includes/widgets/tabs.php:98
+#: includes/widgets/icon-box.php:141 includes/widgets/image-box.php:118
+msgid "Title & Description"
+msgstr "Titlu și descriere"
+
+#: includes/widgets/alert.php:102 includes/widgets/button.php:127
+#: includes/widgets/progress.php:117
+msgid "Danger"
+msgstr "Pericol"
+
+#: includes/widgets/alert.php:101 includes/widgets/button.php:126
+#: includes/widgets/progress.php:116
+msgid "Warning"
+msgstr "Avertizare"
+
+#: includes/widgets/alert.php:100 includes/widgets/button.php:125
+#: includes/widgets/progress.php:115
+msgid "Success"
+msgstr "Succes"
+
+#: includes/widgets/alert.php:99 includes/widgets/button.php:124
+#: includes/widgets/progress.php:114 assets/js/app-packages.js:9153
+msgid "Info"
+msgstr "Informații"
+
+#: includes/template-library/sources/local.php:1625
+#: includes/widgets/alert.php:95 includes/widgets/button.php:119
+#: includes/widgets/tabs.php:152 includes/widgets/progress.php:109
+#: includes/editor-templates/templates.php:113
+#: includes/elements/section.php:929
+msgid "Type"
+msgstr "Tip"
+
+#: includes/widgets/alert.php:45 includes/widgets/alert.php:88
+#: includes/widgets/alert.php:164
+msgid "Alert"
+msgstr "Alertă"
+
+#: includes/widgets/toggle.php:328 includes/widgets/toggle.php:410
+#: includes/widgets/accordion.php:303 includes/widgets/accordion.php:385
+#: includes/widgets/tabs.php:266
+msgid "Active Color"
+msgstr "Culoare activă"
+
+#: includes/widgets/toggle.php:255 includes/widgets/accordion.php:255
+#: includes/widgets/alert.php:183 includes/widgets/button.php:366
+#: includes/widgets/social-icons.php:523 includes/widgets/tabs.php:220
+msgid "Border Color"
+msgstr "Culoare chenar"
+
+#: includes/widgets/divider.php:501 includes/widgets/divider.php:767
+#: includes/widgets/counter.php:211 includes/widgets/toggle.php:141
+#: includes/widgets/accordion.php:140 includes/widgets/image-gallery.php:172
+#: includes/widgets/heading.php:206 includes/widgets/video.php:476
+#: includes/widgets/alert.php:153 includes/widgets/button.php:245
+#: includes/widgets/spacer.php:133 includes/widgets/text-editor.php:255
+#: includes/widgets/audio.php:251 includes/widgets/google-maps.php:163
+#: includes/widgets/image.php:236 includes/widgets/social-icons.php:323
+#: includes/widgets/icon.php:123 includes/widgets/testimonial.php:209
+#: includes/widgets/tabs.php:143 includes/widgets/progress.php:164
+#: includes/widgets/icon-box.php:108 includes/widgets/image-box.php:206
+#: includes/widgets/image-carousel.php:235
+msgid "View"
+msgstr "Vizualizează"
+
+#: includes/widgets/accordion.php:112
+msgid "Accordion Content"
+msgstr "Conținut acordeon"
+
+#: includes/widgets/accordion.php:99
+msgid "Accordion Title"
+msgstr "Titlul acordeon"
+
+#: includes/widgets/accordion.php:129
+msgid "Accordion #2"
+msgstr "Acordeon #2"
+
+#: includes/widgets/accordion.php:125
+msgid "Accordion #1"
+msgstr "Acordeon #1"
+
+#: includes/widgets/accordion.php:120
+msgid "Accordion Items"
+msgstr "Articole acordeon"
+
+#: includes/widgets/accordion.php:45 includes/widgets/accordion.php:88
+#: includes/widgets/accordion.php:228
+msgid "Accordion"
+msgstr "Acordeon"
+
+#: core/admin/admin-notices.php:223
+msgid "Sure! I'd love to help"
+msgstr "Sigur! Mi-ar plăcea să ajut"
+
+#: modules/system-info/module.php:199
+msgid "You don't have permissions to download this file"
+msgstr "Nu ai permisiunea de a descărca acest fișier"
+
+#: modules/system-info/module.php:181
+msgid "Download System Info"
+msgstr "Descarcă informații despre sistem"
+
+#: modules/system-info/module.php:161
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "Poți copia informațiile de mai jos ca text simplu prin Ctrl+C / Ctrl+V:"
+
+#: modules/system-info/module.php:159
+msgid "Copy & Paste Info"
+msgstr "Copiază și plasează informații"
+
+#: modules/system-info/module.php:128 modules/system-info/module.php:157
+#: core/common/modules/finder/categories/general.php:50
+msgid "System Info"
+msgstr "Informații despre sistem"
+
+#: includes/widgets/testimonial.php:131 includes/widgets/testimonial.php:311
+#: includes/editor-templates/templates.php:109
+msgid "Name"
+msgstr "Nume"
+
+#: core/common/modules/finder/categories/site.php:60
+msgid "Themes"
+msgstr "Teme"
+
+#: includes/widgets/image-gallery.php:148 includes/widgets/audio.php:127
+#: includes/widgets/image.php:225 includes/widgets/image-carousel.php:151
+#: includes/widgets/image-carousel.php:209
+#: includes/widgets/image-carousel.php:258
+#: includes/widgets/image-carousel.php:273
+#: includes/widgets/image-carousel.php:291
+#: includes/widgets/image-carousel.php:324 includes/managers/icons.php:340
+#: includes/controls/switcher.php:74 core/editor/editor.php:684
+msgid "No"
+msgstr "Nu"
+
+#: includes/widgets/image-gallery.php:147 includes/widgets/audio.php:126
+#: includes/widgets/image.php:224 includes/widgets/image-carousel.php:152
+#: includes/widgets/image-carousel.php:208
+#: includes/widgets/image-carousel.php:257
+#: includes/widgets/image-carousel.php:272
+#: includes/widgets/image-carousel.php:290
+#: includes/widgets/image-carousel.php:323 includes/managers/icons.php:341
+#: includes/controls/switcher.php:75 core/editor/editor.php:697
+msgid "Yes"
+msgstr "Da"
+
+#: core/role-manager/role-manager.php:62
+msgid "Exclude Roles"
+msgstr "Exclude roluri"
+
+#: includes/settings/settings.php:419
+msgid "Post Types"
+msgstr "Tipuri de articol"
+
+#: core/base/document.php:1260
+#: core/common/modules/finder/categories/settings.php:46
+msgid "General Settings"
+msgstr "Setări generale"
+
+#: core/schemes/typography.php:96
+msgid "Accent Text"
+msgstr "Text accentuat"
+
+#: core/schemes/typography.php:95
+msgid "Body Text"
+msgstr "Text corp"
+
+#: core/schemes/typography.php:94
+msgid "Secondary Headline"
+msgstr "Titlu secundar"
+
+#: core/schemes/typography.php:93
+msgid "Primary Headline"
+msgstr "Titlu principal"
+
+#: core/kits/documents/tabs/global-typography.php:132
+#: core/kits/documents/tabs/global-colors.php:81 core/schemes/color.php:96
+msgid "Accent"
+msgstr "Accent"
+
+#: includes/widgets/divider.php:483 includes/widgets/divider.php:510
+#: includes/widgets/divider.php:677 includes/widgets/button.php:136
+#: includes/widgets/icon-list.php:120 includes/widgets/icon-list.php:473
+#: core/kits/documents/tabs/global-typography.php:125
+#: core/kits/documents/tabs/global-colors.php:76 core/schemes/color.php:95
+msgid "Text"
+msgstr "Text"
+
+#: core/kits/documents/tabs/global-typography.php:118
+#: core/kits/documents/tabs/global-colors.php:71 core/schemes/color.php:94
+msgid "Secondary"
+msgstr "Secundară"
+
+#: core/kits/documents/tabs/global-typography.php:111
+#: core/kits/documents/tabs/global-colors.php:66 core/schemes/color.php:93
+msgid "Primary"
+msgstr "Principală"
+
+#: includes/managers/elements.php:313
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/widgets/image-carousel.php:160
+#: includes/widgets/image-carousel.php:376
+msgid "Navigation"
+msgstr "Navigare"
+
+#: includes/managers/elements.php:272
+msgid "Basic"
+msgstr "De bază"
+
+#: includes/elements/section.php:1303
+msgid "Visibility"
+msgstr "Vizibilitate"
+
+#: includes/widgets/video.php:745
+msgid "Content Position"
+msgstr "Poziție conținut"
+
+#: includes/widgets/icon-box.php:497 includes/widgets/image-box.php:431
+#: includes/elements/column.php:168 includes/elements/section.php:393
+#: includes/elements/section.php:415
+msgid "Middle"
+msgstr "La mijloc"
+
+#: includes/elements/section.php:391
+msgid "Stretch"
+msgstr "Întindere"
+
+#: includes/elements/section.php:387
+msgid "Column Position"
+msgstr "Poziție coloană"
+
+#: includes/elements/section.php:314 includes/elements/section.php:363
+msgid "Minimum Height"
+msgstr "Înălțime minimă"
+
+#: includes/elements/section.php:304 includes/elements/section.php:353
+msgid "Min Height"
+msgstr "Înălțime minimă"
+
+#: includes/elements/section.php:303
+msgid "Fit To Screen"
+msgstr "Încadrat în ecran"
+
+#: includes/widgets/google-maps.php:146 includes/widgets/icon-list.php:339
+#: includes/widgets/image.php:325 includes/widgets/progress.php:208
+#: includes/controls/image-dimensions.php:102 includes/elements/section.php:298
+#: includes/elements/section.php:348 includes/elements/section.php:983
+msgid "Height"
+msgstr "Înălțime"
+
+#: includes/elements/section.php:289
+msgid "Wide"
+msgstr "Lat"
+
+#: includes/elements/section.php:287
+msgid "Narrow"
+msgstr "Îngust"
+
+#: includes/elements/section.php:286
+msgid "No Gap"
+msgstr "Fără decalaj"
+
+#: includes/widgets/text-editor.php:149 includes/elements/section.php:281
+msgid "Columns Gap"
+msgstr "Decalaj coloane"
+
+#: includes/widgets/video.php:726 includes/elements/section.php:245
+#: includes/elements/section.php:259
+#: core/kits/documents/tabs/settings-layout.php:38
+msgid "Content Width"
+msgstr "Lățime conținut"
+
+#: includes/widgets/common.php:383 includes/widgets/icon-list.php:195
+#: includes/elements/section.php:250
+msgid "Full Width"
+msgstr "Lățime completă"
+
+#: includes/elements/section.php:249
+msgid "Boxed"
+msgstr "Încasetat"
+
+#: includes/widgets/common.php:378 includes/widgets/divider.php:421
+#: includes/widgets/icon-list.php:321 includes/widgets/image.php:255
+#: includes/widgets/image-box.php:248 includes/controls/image-dimensions.php:96
+#: includes/elements/section.php:954
+msgid "Width"
+msgstr "Lățime"
+
+#: includes/widgets/icon-list.php:95 includes/managers/controls.php:303
+#: includes/elements/column.php:111 includes/elements/section.php:227
+#: core/kits/documents/tabs/settings-layout.php:21 core/kits/manager.php:122
+msgid "Layout"
+msgstr "Aranjament"
+
+#: core/editor/editor.php:760
+msgid "Add New Column"
+msgstr "Adaugă coloană nouă"
+
+#: includes/elements/column.php:129
+msgid "Column Width"
+msgstr "Lățime coloană"
+
+#: includes/widgets/common.php:128 includes/elements/column.php:753
+#: includes/elements/section.php:1202
+msgid "CSS Classes"
+msgstr "Clase CSS"
+
+#: includes/widgets/common.php:88 includes/widgets/divider.php:799
+#: includes/widgets/toggle.php:353 includes/widgets/toggle.php:486
+#: includes/widgets/accordion.php:328 includes/widgets/accordion.php:461
+#: includes/widgets/button.php:421 includes/widgets/social-icons.php:401
+#: includes/widgets/icon.php:316 includes/widgets/icon-box.php:390
+#: includes/elements/column.php:714 includes/elements/section.php:1163
+#: core/kits/documents/tabs/theme-style-form-fields.php:148
+#: core/kits/documents/tabs/theme-style-buttons.php:213
+#: core/document-types/page-base.php:132
+msgid "Padding"
+msgstr "Distanțare"
+
+#: includes/widgets/common.php:76 includes/elements/column.php:702
+#: includes/elements/section.php:1144
+msgid "Margin"
+msgstr "Margine"
+
+#: includes/widgets/common.php:445 includes/widgets/divider.php:456
+#: includes/widgets/divider.php:721 includes/widgets/divider.php:861
+#: includes/widgets/star-rating.php:178 includes/widgets/image-gallery.php:287
+#: includes/widgets/heading.php:184 includes/widgets/video.php:749
+#: includes/widgets/button.php:172 includes/widgets/text-editor.php:196
+#: includes/widgets/icon-list.php:246 includes/widgets/icon-list.php:453
+#: includes/widgets/image.php:142 includes/widgets/image.php:535
+#: includes/widgets/social-icons.php:305 includes/widgets/icon.php:175
+#: includes/widgets/testimonial.php:194 includes/widgets/icon-box.php:472
+#: includes/widgets/image-box.php:406 includes/widgets/image-carousel.php:531
+#: includes/widgets/image-carousel.php:632 includes/elements/column.php:196
+#: includes/elements/column.php:673 includes/elements/section.php:1116
+msgid "Center"
+msgstr "Centrat"
+
+#: includes/elements/column.php:665 includes/elements/section.php:1108
+msgid "Text Align"
+msgstr "Aliniere text"
+
+#: includes/elements/column.php:653 includes/elements/section.php:1096
+msgid "Link Hover Color"
+msgstr "Culoare trecere peste legătură"
+
+#: includes/elements/column.php:641 includes/elements/section.php:1084
+msgid "Link Color"
+msgstr "Culoare legătură"
+
+#: includes/elements/column.php:616 includes/elements/section.php:1059
+msgid "Heading Color"
+msgstr "Culoare subtitlu"
+
+#: includes/widgets/star-rating.php:213 includes/widgets/counter.php:230
+#: includes/widgets/counter.php:265 includes/widgets/image-gallery.php:312
+#: includes/widgets/heading.php:225 includes/widgets/alert.php:221
+#: includes/widgets/alert.php:253 includes/widgets/button.php:308
+#: includes/widgets/button.php:343 includes/widgets/text-editor.php:217
+#: includes/widgets/icon-list.php:481 includes/widgets/image.php:557
+#: includes/widgets/testimonial.php:229 includes/widgets/testimonial.php:319
+#: includes/widgets/testimonial.php:356 includes/widgets/progress.php:272
+#: includes/widgets/image-carousel.php:654 includes/elements/column.php:629
+#: includes/elements/section.php:1072
+#: core/kits/documents/tabs/theme-style-form-fields.php:165
+#: core/kits/documents/tabs/theme-style-typography.php:44
+#: core/kits/documents/tabs/theme-style-buttons.php:86
+#: core/kits/documents/tabs/theme-style-buttons.php:152
+#: core/kits/documents/tabs/settings-lightbox.php:151
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: includes/elements/column.php:607 includes/elements/section.php:1051
+#: core/kits/documents/tabs/theme-style-form-fields.php:78
+#: core/kits/documents/tabs/theme-style-form-fields.php:96
+#: core/kits/documents/tabs/theme-style-typography.php:19
+#: core/kits/documents/tabs/theme-style-typography.php:26
+#: core/kits/documents/tabs/theme-style-typography.php:56
+#: core/kits/documents/tabs/theme-style-typography.php:133
+#: core/kits/documents/tabs/theme-style-typography.php:163
+#: core/kits/documents/tabs/theme-style-typography.php:209
+#: core/kits/documents/tabs/theme-style-buttons.php:60
+#: core/editor/editor.php:623 core/schemes/typography.php:64
+msgid "Typography"
+msgstr "Tipografice"
+
+#: modules/history/module.php:55
+msgid "Removed"
+msgstr "Înlăturate"
+
+#: includes/elements/column.php:58
+msgid "Column"
+msgstr "Coloană"
+
+#: includes/elements/section.php:78 modules/library/documents/section.php:52
+#: core/editor/editor.php:689
+msgid "Section"
+msgstr "Secțiune"
+
+#: includes/elements/section.php:496 includes/elements/section.php:504
+msgid "Structure"
+msgstr "Structură"
+
+#: includes/widgets/common.php:703 includes/managers/controls.php:302
+#: includes/elements/column.php:843 includes/elements/section.php:1273
+msgid "Responsive"
+msgstr "Responsiv"
+
+#: includes/settings/settings.php:483 includes/widgets/common.php:58
+#: includes/managers/controls.php:301 includes/elements/column.php:693
+#: includes/elements/section.php:1136
+#: core/common/modules/finder/categories/settings.php:51
+#: core/dynamic-tags/tag.php:88
+msgid "Advanced"
+msgstr "Avansat"
+
+#: includes/settings/settings.php:463 includes/widgets/divider.php:363
+#: includes/widgets/icon-list.php:275 includes/managers/controls.php:300
+msgid "Style"
+msgstr "Stil"
+
+#: includes/widgets/toggle.php:111 includes/widgets/toggle.php:442
+#: includes/widgets/accordion.php:110 includes/widgets/accordion.php:417
+#: includes/widgets/alert.php:125 includes/widgets/testimonial.php:95
+#: includes/widgets/testimonial.php:221 includes/widgets/tabs.php:109
+#: includes/widgets/tabs.php:291 includes/widgets/icon-box.php:456
+#: includes/widgets/image-box.php:132 includes/widgets/image-box.php:390
+#: includes/managers/controls.php:299
+msgid "Content"
+msgstr "Conținut"
+
+#: includes/widgets/image-gallery.php:118 includes/widgets/text-editor.php:136
+#: includes/widgets/social-icons.php:272
+msgid "Columns"
+msgstr "Coloane"
+
+#: modules/history/revisions-manager.php:357
+msgid "Revision History"
+msgstr "Istoric revizii"
+
+#: core/editor/editor.php:799
+msgid "Soon"
+msgstr "Curând"
+
+#: core/schemes/color.php:64
+msgid "Colors"
+msgstr "Culori"
+
+#: core/editor/editor.php:731
+msgid "Please note: All unsaved changes will be lost."
+msgstr "Te rog reține: toate modificările nesalvate vor fi pierdute."
+
+#: core/editor/editor.php:735
+msgid "Saved"
+msgstr "Salvat"
+
+#: core/editor/editor.php:723 assets/js/app-packages.js:7843
+#: assets/js/app-packages.js:9303 assets/js/app.js:7107
+msgid "Go Back"
+msgstr "Du-te înapoi"
+
+#: core/editor/editor.php:724
+msgid "Take Over"
+msgstr "Preia controlul"
+
+#: core/editor/editor.php:599 core/admin/admin.php:714
+msgid "Cancel"
+msgstr "Anulează"
+
+#. translators: %s: User name.
+#: core/editor/editor.php:722
+msgid "%s has taken over and is currently editing. Do you want to take over this page editing?"
+msgstr "%s a preluat controlul și acum editează. Vrei să preiei controlul la editarea acestei pagini?"
+
+#. translators: %s: Template type.
+#: core/editor/editor.php:728
+msgid "Are you sure you want to remove this %s?"
+msgstr "Sigur vrei să înlături acest %s?"
+
+#: core/schemes/color.php:145
+msgid "More Palettes"
+msgstr "Mai multe palete"
+
+#: core/schemes/color.php:284
+msgid "Color Palette"
+msgstr "Paletă de culori"
+
+#: includes/controls/image-dimensions.php:104
+#: includes/editor-templates/panel.php:174
+#: modules/history/views/revisions-panel-template.php:18
+#: core/schemes/base-ui.php:119
+msgid "Apply"
+msgstr "Aplică"
+
+#: modules/history/views/revisions-panel-template.php:13
+#: core/schemes/base-ui.php:115
+msgid "Discard"
+msgstr "Renunță"
+
+#: includes/controls/structure.php:66 core/schemes/base-ui.php:109
+msgid "Reset"
+msgstr "Resetează"
+
+#: includes/editor-templates/templates.php:169
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: includes/editor-templates/templates.php:18
+#: includes/editor-templates/templates.php:19
+#: includes/editor-templates/templates.php:211
+#: includes/editor-templates/templates.php:222
+#: includes/editor-templates/hotkeys.php:75 core/editor/editor.php:734
+msgid "Save"
+msgstr "Salvează"
+
+#: core/admin/admin.php:480
+msgid "Help"
+msgstr "Ajutor"
+
+#: includes/editor-templates/panel.php:94 includes/elements/section.php:1281
+#: core/kits/documents/tabs/settings-layout.php:167
+msgid "Tablet"
+msgstr "Tabletă"
+
+#: includes/editor-templates/panel.php:89
+msgid "Desktop"
+msgstr "Desktop"
+
+#: includes/editor-templates/panel.php:81
+#: includes/editor-templates/panel.php:83
+#: includes/editor-templates/hotkeys.php:108
+msgid "Responsive Mode"
+msgstr "Mod responsiv"
+
+#: core/editor/editor.php:646
+msgid "View Page"
+msgstr "Vezi pagina"
+
+#: includes/editor-templates/panel.php:62
+#: includes/editor-templates/panel.php:63
+msgid "Widgets Panel"
+msgstr "Panou piese"
+
+#: includes/editor-templates/panel.php:57
+#: includes/editor-templates/panel.php:58
+msgid "Menu"
+msgstr "Meniu"
+
+#: includes/editor-templates/panel-elements.php:34
+msgid "Search Widget..."
+msgstr "Caută piesă..."
+
+#: includes/editor-templates/global.php:21
+msgid "Add New Section"
+msgstr "Adaugă secțiune nouă"
+
+#: includes/editor-templates/templates.php:50
+#: includes/editor-templates/editor-wrapper.php:50
+#: modules/gutenberg/module.php:115 core/admin/admin.php:174
+#: assets/js/app-packages.js:6889
+msgid "Loading"
+msgstr "Încarc"
+
+#. Plugin Name of the plugin
+#: includes/settings/settings.php:76 includes/settings/settings.php:77
+#: includes/settings/settings.php:553 includes/plugin.php:719
+#: includes/editor-templates/editor-wrapper.php:30 core/editor/editor.php:596
+#: core/upgrade/manager.php:36 core/app/view.php:21 core/admin/admin.php:222
+#: core/admin/admin.php:332 core/admin/admin.php:400
+#: core/documents-manager.php:355 assets/js/app-packages.js:7516
+#: assets/js/app.js:6780
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/controls/repeater.php:172
+msgid "Add Item"
+msgstr "Adaugă element"
+
+#: includes/editor-templates/templates.php:182
+#: includes/editor-templates/hotkeys.php:60
+#: core/kits/views/trash-kit-confirmation.php:27 core/editor/editor.php:598
+msgid "Delete"
+msgstr "Șterge"
+
+#: includes/controls/icon.php:872 includes/controls/icon.php:873
+msgid "Select Icon"
+msgstr "Selectează icon"
+
+#: includes/maintenance-mode.php:226 includes/widgets/common.php:385
+#: includes/widgets/image-gallery.php:195 includes/widgets/social-icons.php:190
+#: includes/widgets/social-icons.php:347
+#: includes/widgets/image-carousel.php:555 core/editor/editor.php:637
+msgid "Custom"
+msgstr "Personalizat"
+
+#: includes/controls/groups/typography.php:301
+msgctxt "Typography Control"
+msgid "Typography"
+msgstr "Tipografice"
+
+#: includes/controls/groups/typography.php:207
+msgctxt "Typography Control"
+msgid "Letter Spacing"
+msgstr "Spațiu între litere"
+
+#: includes/controls/groups/typography.php:185
+msgctxt "Typography Control"
+msgid "Line-Height"
+msgstr "Înălțime linie"
+
+#: includes/widgets/common.php:166 includes/widgets/common.php:207
+#: includes/widgets/common.php:274 includes/widgets/heading.php:261
+#: includes/widgets/button.php:301 includes/widgets/google-maps.php:183
+#: includes/widgets/image.php:386 includes/widgets/icon.php:205
+#: includes/widgets/icon-box.php:261 includes/widgets/image-box.php:297
+#: includes/elements/column.php:262 includes/elements/column.php:339
+#: includes/elements/column.php:388 includes/elements/column.php:491
+#: includes/elements/column.php:812 includes/elements/section.php:528
+#: includes/elements/section.php:601 includes/elements/section.php:665
+#: includes/elements/section.php:784 includes/elements/section.php:1241
+#: core/kits/documents/tabs/theme-style-form-fields.php:107
+#: core/kits/documents/tabs/theme-style-typography.php:114
+#: core/kits/documents/tabs/theme-style-images.php:51
+#: core/kits/documents/tabs/theme-style-buttons.php:79
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/controls/groups/typography.php:160
+msgctxt "Typography Control"
+msgid "Style"
+msgstr "Stil"
+
+#: includes/controls/groups/typography.php:147
+msgctxt "Typography Control"
+msgid "Transform"
+msgstr "Transformare"
+
+#: includes/controls/groups/typography.php:140
+msgctxt "Typography Control"
+msgid "Weight"
+msgstr "Grosime"
+
+#: includes/controls/groups/typography.php:106
+msgctxt "Typography Control"
+msgid "Family"
+msgstr "Familie"
+
+#: includes/controls/groups/typography.php:113
+msgctxt "Typography Control"
+msgid "Size"
+msgstr "Dimensiune"
+
+#: includes/controls/groups/border.php:88
+msgctxt "Border Control"
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/controls/groups/border.php:76
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Lățime"
+
+#: includes/widgets/divider.php:323 includes/widgets/icon-list.php:281
+msgid "Dashed"
+msgstr "Întrerupt"
+
+#: includes/widgets/divider.php:322 includes/widgets/icon-list.php:280
+msgid "Dotted"
+msgstr "Punctat"
+
+#: includes/widgets/divider.php:321 includes/widgets/icon-list.php:279
+msgid "Double"
+msgstr "Dublu"
+
+#: includes/widgets/divider.php:320 includes/widgets/star-rating.php:143
+#: includes/widgets/icon-list.php:278
+msgid "Solid"
+msgstr "Dens"
+
+#: includes/widgets/divider.php:479 includes/widgets/image-gallery.php:134
+#: includes/widgets/image.php:162 includes/widgets/image.php:193
+#: includes/widgets/image-carousel.php:167
+#: includes/widgets/image-carousel.php:180
+#: includes/widgets/image-carousel.php:224 includes/controls/icons.php:109
+#: includes/controls/icons.php:111 includes/controls/animation.php:147
+#: includes/controls/groups/border.php:63
+#: includes/controls/hover-animation.php:119 includes/elements/section.php:906
+#: core/kits/documents/tabs/settings-lightbox.php:87
+#: core/kits/documents/tabs/settings-lightbox.php:104
+msgid "None"
+msgstr "Niciunul"
+
+#: includes/controls/groups/border.php:60
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "Tip de chenar"
+
+#: includes/controls/groups/background.php:609
+msgctxt "Background Control"
+msgid "Background Fallback"
+msgstr "Retragere fundal"
+
+#: includes/controls/groups/background.php:551
+msgctxt "Background Control"
+msgid "Video Link"
+msgstr "Legătură video"
+
+#: includes/controls/groups/background.php:482
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "Copertă"
+
+#: includes/controls/groups/background.php:481
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "Automată"
+
+#: includes/controls/groups/background.php:475
+msgctxt "Background Control"
+msgid "Size"
+msgstr "Dimensiune"
+
+#: includes/controls/groups/background.php:463
+msgctxt "Background Control"
+msgid "Repeat-y"
+msgstr "Repetă-y"
+
+#: includes/controls/groups/background.php:462
+msgctxt "Background Control"
+msgid "Repeat-x"
+msgstr "Repetă-x"
+
+#: includes/controls/groups/background.php:460
+msgctxt "Background Control"
+msgid "No-repeat"
+msgstr "Fără repetare"
+
+#: includes/controls/groups/background.php:454
+#: includes/controls/groups/background.php:461
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr "Repetare"
+
+#: includes/controls/groups/background.php:430
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr "Fix"
+
+#: includes/controls/groups/background.php:429
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr "Derulează"
+
+#: includes/controls/groups/background.php:424
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr "Atașament"
+
+#: includes/controls/groups/background.php:233
+#: includes/controls/groups/background.php:278
+#: includes/controls/groups/background.php:715
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr "Dreapta jos"
+
+#: includes/controls/groups/background.php:231
+#: includes/controls/groups/background.php:276
+#: includes/controls/groups/background.php:713
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "Jos pe centru"
+
+#: includes/controls/groups/background.php:232
+#: includes/controls/groups/background.php:277
+#: includes/controls/groups/background.php:714
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr "Stânga jos"
+
+#: includes/controls/groups/background.php:227
+#: includes/controls/groups/background.php:272
+#: includes/controls/groups/background.php:709
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "Centrat dreapta"
+
+#: includes/controls/groups/background.php:225
+#: includes/controls/groups/background.php:270
+#: includes/controls/groups/background.php:707
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "Centrat la mijloc"
+
+#: includes/controls/groups/background.php:226
+#: includes/controls/groups/background.php:271
+#: includes/controls/groups/background.php:708
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "Centrat stânga"
+
+#: includes/controls/groups/background.php:230
+#: includes/controls/groups/background.php:275
+#: includes/controls/groups/background.php:712
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "Dreapta sus"
+
+#: includes/controls/groups/background.php:228
+#: includes/controls/groups/background.php:273
+#: includes/controls/groups/background.php:710
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "Sus pe centru"
+
+#: includes/controls/groups/background.php:229
+#: includes/controls/groups/background.php:274
+#: includes/controls/groups/background.php:711
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "Stânga sus"
+
+#: includes/controls/groups/background.php:222
+#: includes/controls/groups/background.php:264
+msgctxt "Background Control"
+msgid "Position"
+msgstr "Poziție"
+
+#: includes/controls/groups/background.php:253
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr "Imagine fundal"
+
+#: includes/controls/groups/background.php:247
+msgctxt "Background Control"
+msgid "Image"
+msgstr "Imagine"
+
+#: includes/controls/groups/background.php:133
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: includes/controls/groups/background.php:130
+msgctxt "Background Control"
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/controls/groups/background.php:124
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr "Tip de fundal"
+
+#: includes/controls/groups/background.php:496
+msgctxt "Background Control"
+msgid "Width"
+msgstr "Lățime"
+
+#: includes/controls/groups/background.php:92
+msgctxt "Background Control"
+msgid "Classic"
+msgstr "Clasic"
+
+#: includes/fonts.php:68
+msgid "Google"
+msgstr "Google"
+
+#: includes/fonts.php:67
+msgid "System"
+msgstr "Sistem"
+
+#: includes/widgets/image-gallery.php:128 includes/widgets/heading.php:124
+#: includes/widgets/video.php:125 includes/widgets/video.php:146
+#: includes/widgets/video.php:167 includes/widgets/button.php:149
+#: includes/widgets/audio.php:103 includes/widgets/icon-list.php:147
+#: includes/widgets/image.php:189 includes/widgets/image.php:203
+#: includes/widgets/social-icons.php:170 includes/widgets/icon.php:155
+#: includes/widgets/testimonial.php:155 includes/widgets/icon-box.php:171
+#: includes/widgets/image-box.php:148 includes/widgets/image-carousel.php:176
+#: includes/widgets/image-carousel.php:190
+#: core/kits/documents/tabs/theme-style-typography.php:104
+msgid "Link"
+msgstr "Legătură"
+
+#: includes/widgets/common.php:492 includes/widgets/common.php:493
+#: includes/widgets/divider.php:452 includes/widgets/divider.php:717
+#: includes/widgets/divider.php:857 includes/widgets/star-rating.php:174
+#: includes/widgets/image-gallery.php:283 includes/widgets/heading.php:180
+#: includes/widgets/button.php:168 includes/widgets/text-editor.php:192
+#: includes/widgets/icon-list.php:242 includes/widgets/icon-list.php:449
+#: includes/widgets/image.php:138 includes/widgets/image.php:531
+#: includes/widgets/social-icons.php:301 includes/widgets/icon.php:171
+#: includes/widgets/testimonial.php:190 includes/widgets/icon-box.php:189
+#: includes/widgets/icon-box.php:468 includes/widgets/image-box.php:166
+#: includes/widgets/image-box.php:402 includes/widgets/image-carousel.php:365
+#: includes/widgets/image-carousel.php:628 includes/controls/dimensions.php:91
+#: includes/elements/column.php:669 includes/elements/section.php:1112
+msgid "Left"
+msgstr "Stânga"
+
+#: includes/widgets/common.php:611 includes/widgets/icon-box.php:498
+#: includes/widgets/image-box.php:432 includes/controls/dimensions.php:90
+#: includes/elements/column.php:169 includes/elements/section.php:394
+#: includes/elements/section.php:416 includes/elements/section.php:915
+msgid "Bottom"
+msgstr "Jos"
+
+#: includes/widgets/common.php:492 includes/widgets/common.php:493
+#: includes/widgets/divider.php:460 includes/widgets/divider.php:725
+#: includes/widgets/divider.php:865 includes/widgets/star-rating.php:182
+#: includes/widgets/image-gallery.php:291 includes/widgets/heading.php:188
+#: includes/widgets/button.php:176 includes/widgets/text-editor.php:200
+#: includes/widgets/icon-list.php:250 includes/widgets/icon-list.php:457
+#: includes/widgets/image.php:146 includes/widgets/image.php:539
+#: includes/widgets/social-icons.php:309 includes/widgets/icon.php:179
+#: includes/widgets/testimonial.php:198 includes/widgets/icon-box.php:197
+#: includes/widgets/icon-box.php:476 includes/widgets/image-box.php:174
+#: includes/widgets/image-box.php:410 includes/widgets/image-carousel.php:366
+#: includes/widgets/image-carousel.php:636 includes/controls/dimensions.php:89
+#: includes/elements/column.php:677 includes/elements/section.php:1120
+msgid "Right"
+msgstr "Dreapta"
+
+#: includes/widgets/common.php:607 includes/widgets/video.php:750
+#: includes/widgets/testimonial.php:172 includes/widgets/icon-box.php:193
+#: includes/widgets/icon-box.php:496 includes/widgets/image-box.php:170
+#: includes/widgets/image-box.php:430 includes/controls/dimensions.php:88
+#: includes/elements/column.php:167 includes/elements/section.php:392
+#: includes/elements/section.php:414 includes/elements/section.php:914
+msgid "Top"
+msgstr "Sus"
+
+#: includes/base/widget-base.php:241 includes/settings/settings.php:527
+#: includes/widgets/common.php:382 includes/widgets/common.php:483
+#: includes/widgets/divider.php:770 includes/widgets/image-gallery.php:146
+#: includes/widgets/image-gallery.php:162
+#: includes/widgets/image-gallery.php:194 includes/widgets/heading.php:143
+#: includes/widgets/button.php:123 includes/widgets/text-editor.php:131
+#: includes/widgets/text-editor.php:258 includes/widgets/icon-list.php:100
+#: includes/widgets/image.php:223 includes/widgets/image.php:362
+#: includes/widgets/icon.php:126 includes/widgets/progress.php:113
+#: includes/widgets/icon-box.php:111 includes/widgets/image-carousel.php:122
+#: includes/widgets/image-carousel.php:135
+#: includes/widgets/image-carousel.php:207
+#: includes/widgets/image-carousel.php:554 includes/controls/animation.php:146
+#: includes/controls/font.php:67 includes/controls/groups/typography.php:132
+#: includes/controls/groups/typography.php:151
+#: includes/controls/groups/typography.php:164
+#: includes/controls/groups/typography.php:176
+#: includes/controls/groups/background.php:687
+#: includes/controls/groups/background.php:706
+#: includes/editor-templates/panel.php:229 includes/elements/column.php:166
+#: includes/elements/column.php:194 includes/elements/column.php:234
+#: includes/elements/section.php:285 includes/elements/section.php:302
+#: includes/elements/section.php:352 includes/elements/section.php:413
+#: includes/elements/section.php:441 includes/elements/section.php:477
+#: modules/page-templates/module.php:297 core/editor/editor.php:631
+msgid "Default"
+msgstr "Implicit"
+
+#: core/editor/editor.php:600
+msgid "Clear"
+msgstr "Șterge"
+
+#: modules/admin-bar/module.php:119 modules/gutenberg/module.php:94
+#: modules/gutenberg/module.php:104 core/base/document.php:445
+#: core/admin/admin.php:155 core/admin/admin.php:163
+msgid "Edit with Elementor"
+msgstr "Editează cu Elementor"
+
+#: modules/gutenberg/module.php:91
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Înapoi la editorul WordPress"
+
+#. translators: %s: PHP version
+#: elementor.php:81
+msgid "Elementor requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Elementor are nevoie de versiunea PHP %s sau una ulterioară, acum modulul NU RULEAZĂ."
